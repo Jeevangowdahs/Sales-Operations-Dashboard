@@ -1,0 +1,1501 @@
+Date,Region,Service_Line,Industry,Revenue,Cost,Profit,Quarter
+2024-09-08,APAC,Risk Advisory,Government,57342,32266,25075,Q3-2024
+2025-02-14,APAC,Audit Services,Energy,30066,24583,5483,Q1-2025
+2024-10-07,LATAM,Strategy Consulting,Retail,41698,15320,26377,Q4-2024
+2024-02-13,Europe,Strategy Consulting,Government,71118,25906,45211,Q1-2024
+2024-03-14,LATAM,Strategy Consulting,Finance,13260,6100,7159,Q1-2024
+2025-06-14,LATAM,Audit Services,Energy,23423,20605,2818,Q2-2025
+2025-11-10,North America,Audit Services,Finance,56864,45801,11063,Q4-2025
+2025-01-02,North America,Tech Implementation,Healthcare,26417,17701,8715,Q1-2025
+2025-04-13,Europe,Audit Services,Government,30892,23310,7581,Q2-2025
+2024-06-17,APAC,Risk Advisory,Government,34534,19197,15336,Q2-2024
+2024-06-22,APAC,Risk Advisory,Government,18851,13199,5651,Q2-2024
+2024-10-11,Europe,Risk Advisory,Finance,79220,44185,35034,Q4-2024
+2024-01-26,North America,Strategy Consulting,Energy,105136,49872,55263,Q1-2024
+2024-04-18,LATAM,Strategy Consulting,Finance,113341,55910,57430,Q2-2024
+2024-09-08,APAC,Tech Implementation,Government,29358,19421,9936,Q3-2024
+2024-05-18,North America,Risk Advisory,Retail,38610,24995,13614,Q2-2024
+2025-02-01,LATAM,Audit Services,Energy,33109,28219,4890,Q1-2025
+2025-12-25,LATAM,Risk Advisory,Finance,28900,17488,11411,Q4-2025
+2025-01-18,Europe,Risk Advisory,Finance,29362,20708,8653,Q1-2025
+2025-09-30,APAC,Tech Implementation,Retail,66079,43728,22350,Q3-2025
+2025-01-07,LATAM,Tech Implementation,Finance,38236,26298,11937,Q1-2025
+2024-12-16,APAC,Tech Implementation,Healthcare,59868,44535,15332,Q4-2024
+2024-07-04,Europe,Strategy Consulting,Government,26403,12182,14220,Q3-2024
+2025-09-21,APAC,Audit Services,Energy,57436,44867,12568,Q3-2025
+2025-02-07,APAC,Audit Services,Healthcare,5684,4597,1086,Q1-2025
+2025-02-23,North America,Tech Implementation,Energy,14208,7924,6283,Q1-2025
+2024-03-24,North America,Strategy Consulting,Healthcare,115027,56745,58282,Q1-2024
+2024-11-10,Europe,Tech Implementation,Healthcare,72334,44699,27634,Q4-2024
+2025-05-03,APAC,Strategy Consulting,Finance,40665,16680,23984,Q2-2025
+2024-11-13,Europe,Tech Implementation,Energy,27216,15901,11314,Q4-2024
+2024-03-28,APAC,Audit Services,Retail,39380,30042,9338,Q1-2024
+2025-03-14,LATAM,Risk Advisory,Government,47552,26945,20606,Q1-2025
+2024-08-25,North America,Risk Advisory,Government,50130,35279,14850,Q3-2024
+2025-09-05,Europe,Risk Advisory,Healthcare,49953,32950,17002,Q3-2025
+2025-12-24,APAC,Tech Implementation,Healthcare,64124,47490,16633,Q4-2025
+2024-09-25,APAC,Risk Advisory,Finance,58256,43538,14717,Q3-2024
+2025-04-14,Europe,Tech Implementation,Retail,70436,45195,25240,Q2-2025
+2024-11-15,Europe,Risk Advisory,Healthcare,30920,22186,8733,Q4-2024
+2024-01-17,North America,Tech Implementation,Finance,21104,11885,9218,Q1-2024
+2024-04-03,APAC,Risk Advisory,Healthcare,50355,34386,15968,Q2-2024
+2025-03-23,APAC,Strategy Consulting,Government,112486,53633,58853,Q1-2025
+2024-08-29,Europe,Audit Services,Healthcare,8671,6661,2009,Q3-2024
+2024-09-27,Europe,Strategy Consulting,Government,117270,49287,67982,Q3-2024
+2024-03-07,APAC,Strategy Consulting,Energy,12873,4740,8132,Q1-2024
+2024-06-20,Europe,Risk Advisory,Finance,67049,42308,24740,Q2-2024
+2024-02-24,LATAM,Tech Implementation,Retail,55479,34543,20935,Q1-2024
+2024-07-11,LATAM,Strategy Consulting,Retail,89563,41682,47880,Q3-2024
+2025-03-07,APAC,Audit Services,Healthcare,20076,17574,2501,Q1-2025
+2024-09-20,North America,Strategy Consulting,Government,70234,32722,37512,Q3-2024
+2024-08-27,North America,Tech Implementation,Energy,19638,11332,8305,Q3-2024
+2024-11-18,North America,Strategy Consulting,Energy,49465,18271,31193,Q4-2024
+2024-06-04,LATAM,Strategy Consulting,Retail,50980,19657,31322,Q2-2024
+2025-09-17,LATAM,Audit Services,Government,12098,10515,1583,Q3-2025
+2024-08-25,Europe,Risk Advisory,Healthcare,28464,20721,7742,Q3-2024
+2025-10-07,LATAM,Strategy Consulting,Energy,97380,36062,61317,Q4-2025
+2024-09-13,North America,Audit Services,Government,29339,24607,4732,Q3-2024
+2024-07-24,Europe,Risk Advisory,Healthcare,48993,35943,13049,Q3-2024
+2025-05-28,North America,Audit Services,Retail,16122,12801,3321,Q2-2025
+2025-02-09,North America,Audit Services,Healthcare,59533,45445,14088,Q1-2025
+2025-07-17,LATAM,Risk Advisory,Finance,6989,4950,2038,Q3-2025
+2024-03-07,North America,Risk Advisory,Retail,21030,12758,8271,Q1-2024
+2025-10-17,Europe,Strategy Consulting,Finance,17709,7516,10192,Q4-2025
+2025-03-06,APAC,Strategy Consulting,Finance,105483,35918,69564,Q1-2025
+2025-02-09,APAC,Audit Services,Retail,60903,45809,15093,Q1-2025
+2024-11-14,North America,Risk Advisory,Retail,64194,42640,21553,Q4-2024
+2025-08-22,Europe,Risk Advisory,Finance,70780,49000,21779,Q3-2025
+2024-09-24,Europe,Tech Implementation,Finance,21853,12562,9290,Q3-2024
+2025-01-24,North America,Audit Services,Energy,45682,34685,10997,Q1-2025
+2025-07-24,LATAM,Tech Implementation,Government,54632,37820,16811,Q3-2025
+2025-11-28,Europe,Audit Services,Healthcare,14563,11731,2831,Q4-2025
+2025-04-29,LATAM,Risk Advisory,Healthcare,66056,41550,24505,Q2-2025
+2024-12-30,North America,Strategy Consulting,Finance,15412,6480,8931,Q4-2024
+2025-07-06,Europe,Audit Services,Finance,63271,52298,10973,Q3-2025
+2024-02-24,North America,Tech Implementation,Healthcare,15384,11200,4183,Q1-2024
+2025-09-29,LATAM,Tech Implementation,Energy,47078,31478,15599,Q3-2025
+2024-03-23,Europe,Strategy Consulting,Government,19509,6199,13309,Q1-2024
+2025-03-11,North America,Risk Advisory,Retail,71068,40533,30534,Q1-2025
+2025-06-16,APAC,Tech Implementation,Government,40512,29495,11016,Q2-2025
+2024-07-01,APAC,Audit Services,Healthcare,49912,42694,7218,Q3-2024
+2024-09-09,LATAM,Risk Advisory,Retail,7063,5043,2019,Q3-2024
+2025-05-29,APAC,Strategy Consulting,Government,42045,16327,25717,Q2-2025
+2025-05-11,APAC,Audit Services,Government,43175,37400,5774,Q2-2025
+2025-03-01,LATAM,Tech Implementation,Retail,32326,18695,13630,Q1-2025
+2024-10-15,LATAM,Audit Services,Healthcare,61480,54262,7218,Q4-2024
+2024-07-04,North America,Risk Advisory,Government,63877,38773,25103,Q3-2024
+2024-05-22,North America,Audit Services,Retail,60061,51613,8448,Q2-2024
+2025-06-21,LATAM,Tech Implementation,Energy,70474,43578,26895,Q2-2025
+2024-01-12,Europe,Strategy Consulting,Government,26610,11411,15198,Q1-2024
+2025-10-19,APAC,Audit Services,Retail,36872,32882,3990,Q4-2025
+2025-11-12,North America,Tech Implementation,Healthcare,64764,41186,23577,Q4-2025
+2024-04-19,Europe,Audit Services,Retail,63372,49283,14088,Q2-2024
+2024-08-01,Europe,Risk Advisory,Energy,52771,37313,15457,Q3-2024
+2025-04-11,LATAM,Risk Advisory,Healthcare,64080,46455,17624,Q2-2025
+2025-08-05,North America,Risk Advisory,Energy,56074,36672,19401,Q3-2025
+2025-08-09,Europe,Tech Implementation,Energy,7516,5533,1982,Q3-2025
+2024-03-12,Europe,Tech Implementation,Government,43399,29864,13534,Q1-2024
+2025-07-09,North America,Audit Services,Energy,36004,27485,8518,Q3-2025
+2025-11-18,APAC,Strategy Consulting,Healthcare,50974,16629,34344,Q4-2025
+2024-08-12,North America,Tech Implementation,Retail,34795,21450,13344,Q3-2024
+2024-06-13,LATAM,Tech Implementation,Retail,63623,35846,27776,Q2-2024
+2025-01-29,LATAM,Audit Services,Government,8143,6296,1846,Q1-2025
+2025-05-08,North America,Strategy Consulting,Healthcare,97656,37526,60129,Q2-2025
+2025-03-18,Europe,Audit Services,Retail,24996,19218,5778,Q1-2025
+2025-09-08,APAC,Tech Implementation,Healthcare,28826,21075,7750,Q3-2025
+2025-08-05,APAC,Risk Advisory,Finance,28420,19477,8942,Q3-2025
+2024-02-13,APAC,Risk Advisory,Healthcare,13411,9053,4357,Q1-2024
+2024-02-02,North America,Audit Services,Healthcare,55164,41915,13249,Q1-2024
+2024-06-10,LATAM,Tech Implementation,Healthcare,74226,41137,33088,Q2-2024
+2024-12-31,LATAM,Risk Advisory,Healthcare,17536,12228,5307,Q4-2024
+2025-09-06,APAC,Tech Implementation,Retail,43853,24165,19687,Q3-2025
+2024-12-20,LATAM,Risk Advisory,Healthcare,5635,3166,2468,Q4-2024
+2025-06-01,North America,Audit Services,Government,21860,19252,2608,Q2-2025
+2025-06-21,Europe,Tech Implementation,Energy,28846,20426,8419,Q2-2025
+2025-09-04,North America,Strategy Consulting,Healthcare,61356,23930,37425,Q3-2025
+2025-08-11,North America,Strategy Consulting,Healthcare,84468,28540,55927,Q3-2025
+2024-06-12,LATAM,Strategy Consulting,Healthcare,34536,13562,20973,Q2-2024
+2025-07-03,Europe,Risk Advisory,Energy,27022,18291,8730,Q3-2025
+2024-08-28,Europe,Risk Advisory,Retail,49131,27508,21622,Q3-2024
+2024-06-17,APAC,Audit Services,Energy,40461,36104,4356,Q2-2024
+2024-01-20,LATAM,Risk Advisory,Government,19371,10684,8686,Q1-2024
+2025-04-19,North America,Audit Services,Finance,12311,9242,3068,Q2-2025
+2025-01-11,Europe,Tech Implementation,Government,40935,27281,13653,Q1-2025
+2024-03-19,APAC,Strategy Consulting,Retail,41854,15408,26446,Q1-2024
+2025-06-15,Europe,Strategy Consulting,Finance,52299,25293,27005,Q2-2025
+2024-04-24,Europe,Strategy Consulting,Finance,107340,44899,62440,Q2-2024
+2025-07-03,APAC,Strategy Consulting,Energy,36241,14037,22204,Q3-2025
+2024-08-10,North America,Risk Advisory,Healthcare,5778,3368,2409,Q3-2024
+2025-11-18,APAC,Strategy Consulting,Energy,28032,13425,14606,Q4-2025
+2025-05-06,Europe,Risk Advisory,Retail,57934,39974,17959,Q2-2025
+2025-07-31,LATAM,Risk Advisory,Retail,5044,3740,1303,Q3-2025
+2024-02-26,North America,Audit Services,Retail,57900,46330,11569,Q1-2024
+2025-01-29,Europe,Strategy Consulting,Retail,26110,10937,15173,Q1-2025
+2024-06-16,North America,Tech Implementation,Energy,34845,20735,14109,Q2-2024
+2025-07-28,North America,Strategy Consulting,Finance,21915,6890,15024,Q3-2025
+2025-12-08,North America,Strategy Consulting,Energy,66045,29404,36640,Q4-2025
+2024-06-20,LATAM,Risk Advisory,Energy,38679,26972,11706,Q2-2024
+2025-06-27,LATAM,Strategy Consulting,Energy,114922,35262,79660,Q2-2025
+2025-03-19,Europe,Strategy Consulting,Government,105753,51618,54134,Q1-2025
+2025-04-13,North America,Tech Implementation,Finance,41513,23826,17686,Q2-2025
+2025-05-07,APAC,Audit Services,Energy,27860,23661,4198,Q2-2025
+2024-12-31,Europe,Audit Services,Finance,39568,30733,8835,Q4-2024
+2025-01-17,APAC,Strategy Consulting,Finance,53959,18997,34961,Q1-2025
+2025-01-31,LATAM,Risk Advisory,Government,14209,9196,5012,Q1-2025
+2024-08-08,LATAM,Risk Advisory,Government,55279,37123,18155,Q3-2024
+2024-05-21,APAC,Strategy Consulting,Finance,22227,10123,12103,Q2-2024
+2024-02-02,APAC,Strategy Consulting,Government,40747,18494,22253,Q1-2024
+2025-10-12,LATAM,Audit Services,Energy,39539,32924,6614,Q4-2025
+2025-12-28,Europe,Risk Advisory,Finance,61202,38941,22260,Q4-2025
+2024-09-16,Europe,Risk Advisory,Healthcare,31319,20961,10357,Q3-2024
+2024-11-10,Europe,Strategy Consulting,Government,24999,11929,13069,Q4-2024
+2024-12-15,Europe,Risk Advisory,Healthcare,70643,47631,23011,Q4-2024
+2025-12-17,Europe,Tech Implementation,Finance,40259,28632,11626,Q4-2025
+2024-02-22,LATAM,Audit Services,Retail,25756,22933,2822,Q1-2024
+2025-12-05,Europe,Risk Advisory,Healthcare,24036,15797,8238,Q4-2025
+2025-03-13,Europe,Risk Advisory,Finance,23776,15619,8156,Q1-2025
+2025-03-30,APAC,Strategy Consulting,Energy,9297,3313,5983,Q1-2025
+2025-09-03,APAC,Strategy Consulting,Finance,84748,35079,49669,Q3-2025
+2025-08-28,North America,Strategy Consulting,Finance,72439,26695,45744,Q3-2025
+2024-04-24,LATAM,Risk Advisory,Healthcare,31423,20532,10890,Q2-2024
+2024-07-19,North America,Audit Services,Energy,52193,42634,9558,Q3-2024
+2024-05-28,LATAM,Risk Advisory,Healthcare,20975,15406,5568,Q2-2024
+2025-05-02,North America,Risk Advisory,Energy,37476,25055,12420,Q2-2025
+2025-08-07,LATAM,Tech Implementation,Energy,77779,46411,31367,Q3-2025
+2025-10-01,Europe,Risk Advisory,Retail,20944,14445,6498,Q4-2025
+2025-03-12,APAC,Risk Advisory,Retail,73665,46929,26735,Q1-2025
+2024-07-02,LATAM,Audit Services,Finance,22146,16795,5350,Q3-2024
+2024-06-30,North America,Tech Implementation,Retail,60357,34664,25692,Q2-2024
+2024-10-17,Europe,Audit Services,Retail,53324,44369,8954,Q4-2024
+2024-12-16,LATAM,Audit Services,Healthcare,60348,51456,8892,Q4-2024
+2025-12-28,Europe,Tech Implementation,Retail,56162,32075,24086,Q4-2025
+2024-06-30,APAC,Risk Advisory,Government,29971,18464,11506,Q2-2024
+2024-02-16,Europe,Audit Services,Energy,26479,23098,3381,Q1-2024
+2024-07-28,APAC,Strategy Consulting,Government,105295,39766,65529,Q3-2024
+2025-09-29,Europe,Strategy Consulting,Retail,88596,35303,53292,Q3-2025
+2024-06-26,Europe,Tech Implementation,Finance,50660,34930,15729,Q2-2024
+2024-04-05,Europe,Tech Implementation,Government,26446,17095,9350,Q2-2024
+2024-10-13,APAC,Tech Implementation,Healthcare,33949,20968,12980,Q4-2024
+2024-09-22,North America,Risk Advisory,Energy,20983,11892,9090,Q3-2024
+2025-06-01,LATAM,Audit Services,Retail,17544,14724,2819,Q2-2025
+2025-11-30,LATAM,Tech Implementation,Government,67919,47594,20324,Q4-2025
+2024-03-20,North America,Risk Advisory,Healthcare,46732,30027,16704,Q1-2024
+2025-05-17,APAC,Audit Services,Retail,25709,23110,2598,Q2-2025
+2025-03-20,APAC,Risk Advisory,Healthcare,65924,42204,23719,Q1-2025
+2025-01-01,North America,Strategy Consulting,Energy,33352,14436,18916,Q1-2025
+2024-07-08,Europe,Audit Services,Energy,33092,25976,7116,Q3-2024
+2025-04-17,North America,Strategy Consulting,Energy,48300,22530,25769,Q2-2025
+2024-07-08,APAC,Risk Advisory,Energy,66712,42551,24160,Q3-2024
+2025-10-07,Europe,Strategy Consulting,Finance,88794,39285,49508,Q4-2025
+2025-02-14,Europe,Risk Advisory,Healthcare,36397,24330,12066,Q1-2025
+2024-01-11,APAC,Strategy Consulting,Energy,104728,36954,67773,Q1-2024
+2025-09-24,LATAM,Tech Implementation,Finance,68864,48305,20558,Q3-2025
+2025-08-13,APAC,Strategy Consulting,Energy,113935,38017,75918,Q3-2025
+2025-01-29,North America,Tech Implementation,Retail,50936,38157,12778,Q1-2025
+2024-03-11,APAC,Strategy Consulting,Finance,18447,7565,10881,Q1-2024
+2025-09-23,LATAM,Audit Services,Finance,44423,35873,8549,Q3-2025
+2025-04-10,Europe,Audit Services,Energy,31469,26105,5364,Q2-2025
+2025-02-02,APAC,Strategy Consulting,Retail,96940,38737,58202,Q1-2025
+2025-03-08,LATAM,Strategy Consulting,Healthcare,10879,4543,6336,Q1-2025
+2024-04-18,Europe,Audit Services,Government,52964,46776,6187,Q2-2024
+2025-10-21,LATAM,Tech Implementation,Retail,62889,37768,25120,Q4-2025
+2025-11-22,LATAM,Risk Advisory,Government,19798,11213,8584,Q4-2025
+2025-06-13,Europe,Tech Implementation,Government,44019,30191,13827,Q2-2025
+2024-09-07,APAC,Strategy Consulting,Retail,87655,34726,52929,Q3-2024
+2024-08-08,LATAM,Strategy Consulting,Retail,67359,20392,46966,Q3-2024
+2024-07-25,LATAM,Tech Implementation,Government,8158,5400,2757,Q3-2024
+2024-02-12,Europe,Risk Advisory,Energy,56049,40290,15758,Q1-2024
+2025-12-01,LATAM,Tech Implementation,Retail,43572,24633,18938,Q4-2025
+2024-05-08,LATAM,Tech Implementation,Retail,40117,25030,15086,Q2-2024
+2024-12-15,APAC,Strategy Consulting,Finance,59272,23193,36078,Q4-2024
+2024-07-30,APAC,Tech Implementation,Government,72054,52830,19223,Q3-2024
+2024-05-25,APAC,Tech Implementation,Government,12112,7117,4994,Q2-2024
+2025-06-30,Europe,Tech Implementation,Energy,75741,50098,25642,Q2-2025
+2025-09-22,LATAM,Risk Advisory,Finance,31682,21098,10583,Q3-2025
+2025-11-16,APAC,Strategy Consulting,Retail,55026,19405,35620,Q4-2025
+2025-02-12,LATAM,Risk Advisory,Finance,8350,5387,2962,Q1-2025
+2025-04-29,LATAM,Tech Implementation,Retail,56285,35349,20935,Q2-2025
+2025-07-31,APAC,Audit Services,Energy,48929,40515,8413,Q3-2025
+2025-11-04,APAC,Risk Advisory,Retail,25407,15750,9656,Q4-2025
+2025-10-31,APAC,Risk Advisory,Government,33281,22122,11158,Q4-2025
+2025-09-19,Europe,Strategy Consulting,Retail,70824,22692,48131,Q3-2025
+2024-06-09,North America,Tech Implementation,Retail,51189,33317,17871,Q2-2024
+2024-01-14,LATAM,Tech Implementation,Healthcare,9626,6557,3068,Q1-2024
+2025-08-19,Europe,Tech Implementation,Finance,21271,13091,8179,Q3-2025
+2024-11-19,APAC,Risk Advisory,Finance,29704,19914,9789,Q4-2024
+2024-01-12,North America,Tech Implementation,Finance,54823,38075,16747,Q1-2024
+2025-03-14,Europe,Risk Advisory,Energy,33513,18524,14988,Q1-2025
+2025-11-22,North America,Tech Implementation,Finance,59954,41655,18298,Q4-2025
+2024-08-08,LATAM,Strategy Consulting,Energy,16852,7723,9128,Q3-2024
+2025-04-30,Europe,Tech Implementation,Finance,52828,34095,18732,Q2-2025
+2025-04-01,North America,Strategy Consulting,Finance,85920,35095,50824,Q2-2025
+2024-03-09,LATAM,Risk Advisory,Finance,76762,56789,19972,Q1-2024
+2025-08-06,LATAM,Risk Advisory,Healthcare,20721,13650,7070,Q3-2025
+2025-06-15,LATAM,Risk Advisory,Energy,6136,3661,2474,Q2-2025
+2025-11-25,APAC,Risk Advisory,Government,18548,11392,7155,Q4-2025
+2024-12-11,LATAM,Risk Advisory,Energy,46895,33303,13591,Q4-2024
+2024-11-07,APAC,Audit Services,Healthcare,32208,27719,4488,Q4-2024
+2025-04-03,APAC,Tech Implementation,Government,38477,24580,13896,Q2-2025
+2024-01-26,LATAM,Tech Implementation,Retail,36145,25460,10684,Q1-2024
+2025-08-12,LATAM,Risk Advisory,Energy,10006,6439,3566,Q3-2025
+2024-03-13,LATAM,Strategy Consulting,Retail,52381,26079,26301,Q1-2024
+2024-03-24,APAC,Risk Advisory,Government,9963,5669,4293,Q1-2024
+2025-09-19,LATAM,Risk Advisory,Retail,43544,28982,14561,Q3-2025
+2025-06-02,Europe,Strategy Consulting,Finance,104394,41166,63227,Q2-2025
+2024-07-25,LATAM,Tech Implementation,Energy,66994,42832,24161,Q3-2024
+2025-11-20,Europe,Tech Implementation,Healthcare,60620,43981,16638,Q4-2025
+2025-12-06,North America,Strategy Consulting,Retail,116290,56765,59524,Q4-2025
+2024-10-13,Europe,Tech Implementation,Government,13672,7527,6144,Q4-2024
+2025-09-18,Europe,Audit Services,Finance,14736,12623,2112,Q3-2025
+2024-10-12,LATAM,Tech Implementation,Healthcare,42771,29042,13728,Q4-2024
+2025-05-05,North America,Strategy Consulting,Government,20155,9308,10846,Q2-2025
+2025-06-02,Europe,Tech Implementation,Finance,14611,9092,5518,Q2-2025
+2025-05-22,Europe,Risk Advisory,Retail,53543,32107,21435,Q2-2025
+2024-11-27,Europe,Audit Services,Finance,18822,16812,2010,Q4-2024
+2024-05-09,Europe,Tech Implementation,Finance,8059,4983,3075,Q2-2024
+2025-08-18,North America,Strategy Consulting,Healthcare,47872,21218,26654,Q3-2025
+2024-11-09,Europe,Audit Services,Energy,37107,30650,6456,Q4-2024
+2025-04-28,Europe,Audit Services,Government,48148,43149,4998,Q2-2025
+2025-09-21,Europe,Strategy Consulting,Finance,22804,10786,12017,Q3-2025
+2024-01-30,LATAM,Audit Services,Government,47237,38983,8254,Q1-2024
+2024-04-20,Europe,Tech Implementation,Energy,24033,17138,6894,Q2-2024
+2025-04-05,LATAM,Tech Implementation,Government,14280,10063,4216,Q2-2025
+2025-02-21,Europe,Tech Implementation,Government,49099,28652,20446,Q1-2025
+2025-05-07,North America,Strategy Consulting,Healthcare,100524,35633,64890,Q2-2025
+2025-01-06,APAC,Risk Advisory,Finance,41988,25009,16978,Q1-2025
+2025-02-08,North America,Risk Advisory,Healthcare,51170,31977,19192,Q1-2025
+2024-03-08,APAC,Risk Advisory,Retail,34209,20997,13211,Q1-2024
+2024-05-19,LATAM,Audit Services,Healthcare,23124,17748,5376,Q2-2024
+2025-06-30,LATAM,Risk Advisory,Finance,49402,28907,20494,Q2-2025
+2025-01-05,North America,Audit Services,Healthcare,48352,39545,8806,Q1-2025
+2024-06-10,North America,Tech Implementation,Retail,54857,39256,15600,Q2-2024
+2025-03-19,Europe,Audit Services,Government,54071,42301,11770,Q1-2025
+2024-11-21,Europe,Risk Advisory,Healthcare,14486,8490,5995,Q4-2024
+2024-01-02,North America,Strategy Consulting,Finance,25000,8705,16295,Q1-2024
+2025-02-07,APAC,Tech Implementation,Finance,35936,26203,9732,Q1-2025
+2024-03-23,Europe,Tech Implementation,Retail,43866,28151,15714,Q1-2024
+2025-08-21,Europe,Strategy Consulting,Finance,105643,39128,66515,Q3-2025
+2025-09-01,North America,Strategy Consulting,Energy,10837,5116,5720,Q3-2025
+2024-01-04,Europe,Strategy Consulting,Energy,29437,8850,20586,Q1-2024
+2024-09-12,LATAM,Tech Implementation,Healthcare,28108,16088,12019,Q3-2024
+2024-12-17,LATAM,Strategy Consulting,Government,51375,22230,29144,Q4-2024
+2024-08-06,Europe,Tech Implementation,Finance,41754,28608,13145,Q3-2024
+2025-03-17,Europe,Tech Implementation,Finance,53465,38251,15213,Q1-2025
+2024-10-03,North America,Tech Implementation,Healthcare,19824,12078,7745,Q4-2024
+2024-01-28,APAC,Strategy Consulting,Retail,59745,20276,39468,Q1-2024
+2024-09-22,North America,Risk Advisory,Finance,61772,40885,20886,Q3-2024
+2024-09-02,APAC,Risk Advisory,Retail,11610,8371,3238,Q3-2024
+2024-09-25,Europe,Strategy Consulting,Government,40047,14415,25631,Q3-2024
+2025-10-17,APAC,Audit Services,Government,59440,50255,9184,Q4-2025
+2024-02-02,LATAM,Tech Implementation,Government,32010,22773,9236,Q1-2024
+2025-11-28,LATAM,Strategy Consulting,Government,77710,34837,42872,Q4-2025
+2024-04-18,APAC,Strategy Consulting,Retail,44044,13746,30298,Q2-2024
+2024-09-24,LATAM,Audit Services,Energy,40478,30989,9489,Q3-2024
+2024-05-13,Europe,Audit Services,Finance,6112,4760,1352,Q2-2024
+2025-01-08,Europe,Audit Services,Government,63320,54030,9290,Q1-2025
+2025-05-11,Europe,Audit Services,Finance,9136,7570,1565,Q2-2025
+2024-02-06,Europe,Strategy Consulting,Healthcare,65143,27435,37707,Q1-2024
+2024-12-05,North America,Strategy Consulting,Retail,54790,24658,30132,Q4-2024
+2025-01-17,Europe,Tech Implementation,Energy,74197,42485,31711,Q1-2025
+2025-10-27,Europe,Strategy Consulting,Finance,110710,34105,76604,Q4-2025
+2024-06-21,LATAM,Strategy Consulting,Healthcare,61201,20950,40251,Q2-2024
+2024-11-15,APAC,Risk Advisory,Healthcare,68627,49782,18844,Q4-2024
+2024-06-03,Europe,Risk Advisory,Retail,43959,32305,11653,Q2-2024
+2025-07-20,Europe,Risk Advisory,Energy,49232,33845,15386,Q3-2025
+2024-09-22,North America,Audit Services,Government,26644,20071,6572,Q3-2024
+2024-03-19,Europe,Strategy Consulting,Finance,104641,46815,57825,Q1-2024
+2024-10-12,APAC,Risk Advisory,Healthcare,67342,40510,26831,Q4-2024
+2025-01-21,APAC,Strategy Consulting,Government,73287,25069,48217,Q1-2025
+2024-08-17,North America,Risk Advisory,Retail,20949,12754,8194,Q3-2024
+2024-07-22,North America,Strategy Consulting,Healthcare,68292,27146,41145,Q3-2024
+2024-11-12,APAC,Audit Services,Retail,44288,34786,9502,Q4-2024
+2024-08-07,APAC,Tech Implementation,Retail,41583,24899,16683,Q3-2024
+2024-10-12,LATAM,Strategy Consulting,Healthcare,98284,47587,50697,Q4-2024
+2024-04-05,North America,Strategy Consulting,Government,116101,49766,66334,Q2-2024
+2025-09-01,North America,Audit Services,Energy,51212,44377,6835,Q3-2025
+2024-01-28,APAC,Strategy Consulting,Retail,71808,35028,36779,Q1-2024
+2025-07-20,Europe,Risk Advisory,Energy,71365,44206,27158,Q3-2025
+2025-09-23,LATAM,Strategy Consulting,Government,85941,30893,55047,Q3-2025
+2025-01-07,LATAM,Audit Services,Finance,16680,14733,1946,Q1-2025
+2024-07-30,APAC,Tech Implementation,Government,61604,37589,24014,Q3-2024
+2024-08-02,APAC,Audit Services,Government,57184,50247,6937,Q3-2024
+2025-04-18,North America,Audit Services,Energy,30941,27137,3803,Q2-2025
+2025-05-27,APAC,Audit Services,Government,52066,40948,11118,Q2-2025
+2025-03-10,LATAM,Strategy Consulting,Energy,88828,41147,47681,Q1-2025
+2025-12-26,APAC,Audit Services,Government,42925,37883,5042,Q4-2025
+2024-12-24,APAC,Strategy Consulting,Healthcare,14818,6832,7986,Q4-2024
+2025-11-05,North America,Strategy Consulting,Retail,76002,25027,50974,Q4-2025
+2025-01-24,North America,Risk Advisory,Retail,41298,29660,11637,Q1-2025
+2025-05-12,North America,Tech Implementation,Finance,21977,14997,6979,Q2-2025
+2024-09-01,APAC,Strategy Consulting,Retail,81607,30711,50896,Q3-2024
+2024-12-15,APAC,Tech Implementation,Finance,22417,16479,5937,Q4-2024
+2025-02-09,LATAM,Audit Services,Energy,6569,5621,947,Q1-2025
+2024-07-13,APAC,Risk Advisory,Healthcare,39565,24371,15193,Q3-2024
+2025-01-14,Europe,Strategy Consulting,Finance,110644,54902,55742,Q1-2025
+2024-09-03,APAC,Tech Implementation,Finance,9171,5782,3388,Q3-2024
+2025-08-21,LATAM,Audit Services,Energy,27484,22525,4958,Q3-2025
+2025-02-13,North America,Audit Services,Finance,49116,38701,10415,Q1-2025
+2025-09-20,North America,Audit Services,Energy,22932,18456,4475,Q3-2025
+2025-08-20,Europe,Audit Services,Energy,21465,18938,2527,Q3-2025
+2024-01-04,North America,Audit Services,Healthcare,38944,33366,5578,Q1-2024
+2024-09-26,LATAM,Strategy Consulting,Government,28549,12333,16215,Q3-2024
+2024-03-28,APAC,Strategy Consulting,Healthcare,68073,21891,46181,Q1-2024
+2025-11-21,APAC,Audit Services,Finance,6244,5391,853,Q4-2025
+2024-05-02,North America,Audit Services,Healthcare,19568,14860,4707,Q2-2024
+2024-09-03,Europe,Strategy Consulting,Energy,43053,15624,27428,Q3-2024
+2025-10-11,LATAM,Risk Advisory,Finance,51185,29215,21969,Q4-2025
+2025-01-07,APAC,Risk Advisory,Government,39907,24206,15700,Q1-2025
+2024-08-21,North America,Risk Advisory,Energy,65802,43739,22062,Q3-2024
+2024-03-26,LATAM,Audit Services,Healthcare,38640,33420,5219,Q1-2024
+2024-06-14,Europe,Tech Implementation,Government,57814,33291,24522,Q2-2024
+2024-12-24,LATAM,Audit Services,Retail,31682,25632,6049,Q4-2024
+2024-12-22,North America,Risk Advisory,Finance,26214,14976,11237,Q4-2024
+2025-09-16,North America,Risk Advisory,Finance,76905,48691,28213,Q3-2025
+2025-03-11,North America,Audit Services,Retail,42215,32411,9804,Q1-2025
+2024-06-08,LATAM,Risk Advisory,Energy,68651,47066,21584,Q2-2024
+2025-07-05,LATAM,Risk Advisory,Government,32840,24045,8794,Q3-2025
+2024-02-06,Europe,Audit Services,Government,22971,19051,3920,Q1-2024
+2024-08-27,LATAM,Audit Services,Government,15232,12336,2896,Q3-2024
+2024-10-30,APAC,Strategy Consulting,Healthcare,64954,30732,34222,Q4-2024
+2025-03-13,Europe,Strategy Consulting,Energy,25719,10414,15304,Q1-2025
+2024-07-12,Europe,Risk Advisory,Healthcare,31687,20056,11630,Q3-2024
+2025-10-28,North America,Strategy Consulting,Energy,49776,24464,25311,Q4-2025
+2024-01-28,Europe,Strategy Consulting,Energy,61236,21392,39843,Q1-2024
+2024-10-17,APAC,Risk Advisory,Government,60715,39154,21560,Q4-2024
+2025-10-22,Europe,Tech Implementation,Energy,47219,26246,20972,Q4-2025
+2024-03-10,Europe,Strategy Consulting,Finance,15456,6749,8706,Q1-2024
+2025-05-03,North America,Risk Advisory,Retail,13557,8069,5487,Q2-2025
+2025-05-11,APAC,Tech Implementation,Finance,68932,40812,28119,Q2-2025
+2025-04-30,North America,Tech Implementation,Healthcare,20266,11485,8780,Q2-2025
+2025-04-11,North America,Risk Advisory,Energy,10892,7501,3390,Q2-2025
+2024-12-06,APAC,Strategy Consulting,Healthcare,119154,57921,61232,Q4-2024
+2024-12-13,APAC,Tech Implementation,Finance,34040,20215,13824,Q4-2024
+2025-08-10,LATAM,Audit Services,Government,13438,11070,2368,Q3-2025
+2025-03-06,Europe,Risk Advisory,Retail,8242,4743,3498,Q1-2025
+2025-06-24,Europe,Audit Services,Energy,34192,27656,6535,Q2-2025
+2025-04-27,LATAM,Audit Services,Finance,41750,37504,4246,Q2-2025
+2024-12-10,LATAM,Audit Services,Healthcare,54336,48791,5544,Q4-2024
+2025-06-18,APAC,Risk Advisory,Finance,10384,7740,2643,Q2-2025
+2024-07-05,LATAM,Strategy Consulting,Energy,94966,37241,57725,Q3-2024
+2024-12-05,North America,Strategy Consulting,Energy,67110,20218,46891,Q4-2024
+2024-10-12,North America,Risk Advisory,Government,36668,21908,14759,Q4-2024
+2024-01-03,LATAM,Risk Advisory,Energy,9212,6076,3135,Q1-2024
+2025-01-24,APAC,Tech Implementation,Energy,59447,33128,26318,Q1-2025
+2024-04-26,North America,Strategy Consulting,Healthcare,80268,33907,46360,Q2-2024
+2025-05-18,LATAM,Tech Implementation,Retail,7214,5085,2128,Q2-2025
+2025-12-27,APAC,Audit Services,Government,6895,6199,695,Q4-2025
+2024-04-25,Europe,Strategy Consulting,Energy,115399,35321,80078,Q2-2024
+2025-03-16,Europe,Audit Services,Healthcare,30452,24408,6044,Q1-2025
+2024-05-02,LATAM,Risk Advisory,Finance,16811,10228,6582,Q2-2024
+2025-06-14,Europe,Strategy Consulting,Energy,61894,20823,41070,Q2-2025
+2025-07-21,North America,Strategy Consulting,Healthcare,37803,18749,19053,Q3-2025
+2024-09-14,LATAM,Risk Advisory,Healthcare,23372,16786,6585,Q3-2024
+2024-11-08,North America,Strategy Consulting,Retail,104607,34880,69726,Q4-2024
+2025-07-23,APAC,Strategy Consulting,Finance,38712,14102,24609,Q3-2025
+2024-10-21,APAC,Strategy Consulting,Retail,39187,18437,20749,Q4-2024
+2025-02-17,LATAM,Strategy Consulting,Finance,117417,52311,65105,Q1-2025
+2025-07-05,Europe,Risk Advisory,Energy,42685,27892,14792,Q3-2025
+2024-06-18,North America,Audit Services,Energy,18132,14991,3140,Q2-2024
+2025-01-07,Europe,Strategy Consulting,Government,16897,6521,10376,Q1-2025
+2025-11-23,Europe,Risk Advisory,Retail,25049,14717,10331,Q4-2025
+2024-09-17,Europe,Audit Services,Energy,47379,38927,8452,Q3-2024
+2024-06-13,LATAM,Audit Services,Government,34692,27636,7055,Q2-2024
+2024-12-10,APAC,Tech Implementation,Finance,50171,35140,15030,Q4-2024
+2025-01-24,Europe,Tech Implementation,Government,62621,35125,27495,Q1-2025
+2025-04-10,APAC,Risk Advisory,Finance,68843,43800,25042,Q2-2025
+2024-04-20,APAC,Risk Advisory,Energy,42613,27784,14828,Q2-2024
+2025-09-28,North America,Audit Services,Healthcare,62699,51996,10703,Q3-2025
+2024-01-07,APAC,Risk Advisory,Government,64580,37807,26772,Q1-2024
+2024-09-22,Europe,Tech Implementation,Retail,42636,29982,12653,Q3-2024
+2025-06-09,LATAM,Risk Advisory,Government,39663,29263,10399,Q2-2025
+2025-07-28,Europe,Strategy Consulting,Government,62949,25119,37829,Q3-2025
+2024-11-03,North America,Tech Implementation,Retail,48988,31831,17156,Q4-2024
+2025-07-24,APAC,Tech Implementation,Government,15174,9795,5378,Q3-2025
+2024-06-07,APAC,Strategy Consulting,Energy,109573,37126,72446,Q2-2024
+2025-10-08,APAC,Risk Advisory,Healthcare,77676,55479,22196,Q4-2025
+2024-03-13,LATAM,Audit Services,Energy,49033,42763,6270,Q1-2024
+2025-10-11,North America,Strategy Consulting,Finance,32244,13720,18523,Q4-2025
+2025-12-22,North America,Risk Advisory,Energy,13005,7678,5326,Q4-2025
+2024-08-29,APAC,Strategy Consulting,Energy,67111,29581,37530,Q3-2024
+2024-06-26,LATAM,Risk Advisory,Retail,52546,35647,16898,Q2-2024
+2025-03-21,LATAM,Audit Services,Retail,58069,49798,8271,Q1-2025
+2024-02-13,North America,Strategy Consulting,Government,43537,17278,26259,Q1-2024
+2025-09-26,Europe,Tech Implementation,Energy,61223,45771,15451,Q3-2025
+2025-10-24,Europe,Risk Advisory,Finance,20542,13033,7508,Q4-2025
+2024-11-21,North America,Tech Implementation,Finance,10382,7733,2648,Q4-2024
+2025-08-29,APAC,Audit Services,Energy,19808,17424,2384,Q3-2025
+2024-07-15,APAC,Strategy Consulting,Government,100645,44328,56317,Q3-2024
+2024-02-24,North America,Risk Advisory,Finance,33874,22346,11527,Q1-2024
+2025-09-14,North America,Strategy Consulting,Retail,26923,10834,16088,Q3-2025
+2025-05-13,North America,Risk Advisory,Energy,11539,8353,3185,Q2-2025
+2025-02-05,Europe,Strategy Consulting,Finance,34140,16109,18030,Q1-2025
+2025-08-06,LATAM,Tech Implementation,Healthcare,24652,15201,9450,Q3-2025
+2025-08-07,North America,Risk Advisory,Government,37417,26662,10754,Q3-2025
+2024-07-13,Europe,Strategy Consulting,Energy,13177,6173,7003,Q3-2024
+2024-11-13,APAC,Audit Services,Retail,47167,37105,10062,Q4-2024
+2024-01-23,APAC,Strategy Consulting,Healthcare,105961,49443,56517,Q1-2024
+2025-03-02,LATAM,Tech Implementation,Energy,21700,13328,8371,Q1-2025
+2025-04-10,Europe,Strategy Consulting,Finance,13861,4782,9078,Q2-2025
+2025-01-20,APAC,Audit Services,Energy,27494,22342,5151,Q1-2025
+2024-12-25,APAC,Tech Implementation,Energy,58416,33386,25029,Q4-2024
+2024-05-24,Europe,Risk Advisory,Finance,23683,16044,7638,Q2-2024
+2025-11-23,North America,Tech Implementation,Finance,17680,12266,5413,Q4-2025
+2025-06-08,Europe,Strategy Consulting,Finance,30499,14326,16172,Q2-2025
+2024-05-09,Europe,Strategy Consulting,Retail,38569,15621,22948,Q2-2024
+2025-06-13,LATAM,Tech Implementation,Retail,60377,37869,22507,Q2-2025
+2025-12-31,APAC,Risk Advisory,Government,34553,22954,11598,Q4-2025
+2025-05-15,Europe,Risk Advisory,Energy,34508,19114,15393,Q2-2025
+2024-06-22,Europe,Risk Advisory,Energy,11505,6338,5166,Q2-2024
+2025-07-01,LATAM,Strategy Consulting,Energy,59007,24439,34567,Q3-2025
+2024-09-15,Europe,Strategy Consulting,Finance,112435,38828,73607,Q3-2024
+2024-02-13,LATAM,Risk Advisory,Healthcare,49090,30072,19017,Q1-2024
+2024-02-19,APAC,Audit Services,Finance,22775,19219,3555,Q1-2024
+2024-09-21,LATAM,Risk Advisory,Healthcare,25636,18097,7538,Q3-2024
+2025-12-21,LATAM,Risk Advisory,Healthcare,79759,51996,27762,Q4-2025
+2025-10-22,APAC,Tech Implementation,Healthcare,63966,39175,24790,Q4-2025
+2024-05-21,North America,Risk Advisory,Finance,14513,9053,5459,Q2-2024
+2024-09-07,APAC,Risk Advisory,Retail,69447,42126,27320,Q3-2024
+2024-12-06,APAC,Tech Implementation,Energy,64038,45354,18683,Q4-2024
+2025-07-06,Europe,Audit Services,Energy,20946,16759,4186,Q3-2025
+2025-03-06,Europe,Risk Advisory,Retail,55617,31342,24274,Q1-2025
+2024-01-24,APAC,Tech Implementation,Government,48667,36359,12307,Q1-2024
+2025-09-16,North America,Audit Services,Finance,58220,49253,8966,Q3-2025
+2025-12-05,LATAM,Tech Implementation,Healthcare,31447,23519,7927,Q4-2025
+2024-06-02,LATAM,Risk Advisory,Retail,5607,3537,2069,Q2-2024
+2024-08-12,LATAM,Strategy Consulting,Government,64339,29902,34437,Q3-2024
+2025-02-04,Europe,Risk Advisory,Finance,24942,14982,9959,Q1-2025
+2024-05-15,APAC,Strategy Consulting,Healthcare,68514,32982,35531,Q2-2024
+2024-04-02,North America,Tech Implementation,Government,63848,45600,18247,Q2-2024
+2025-07-28,LATAM,Audit Services,Finance,7802,5882,1919,Q3-2025
+2025-02-05,LATAM,Tech Implementation,Finance,70943,42805,28137,Q1-2025
+2024-10-12,APAC,Risk Advisory,Government,75706,46118,29587,Q4-2024
+2025-12-04,North America,Audit Services,Energy,27962,24657,3305,Q4-2025
+2024-08-07,Europe,Audit Services,Finance,24288,18962,5325,Q3-2024
+2025-05-03,LATAM,Risk Advisory,Government,51270,34209,17060,Q2-2025
+2025-02-27,North America,Strategy Consulting,Healthcare,39790,16718,23072,Q1-2025
+2025-07-22,North America,Tech Implementation,Energy,5960,3636,2323,Q3-2025
+2024-12-21,LATAM,Audit Services,Government,25782,22354,3428,Q4-2024
+2025-02-27,LATAM,Audit Services,Retail,6996,5419,1577,Q1-2025
+2025-06-18,North America,Tech Implementation,Finance,30839,19123,11715,Q2-2025
+2024-09-26,APAC,Tech Implementation,Government,17687,12279,5407,Q3-2024
+2025-01-07,APAC,Strategy Consulting,Government,92430,40270,52159,Q1-2025
+2024-03-01,LATAM,Tech Implementation,Healthcare,47304,30796,16507,Q1-2024
+2024-03-10,LATAM,Tech Implementation,Retail,39051,25879,13171,Q1-2024
+2024-03-03,Europe,Strategy Consulting,Government,24906,9907,14998,Q1-2024
+2025-04-20,APAC,Risk Advisory,Finance,77460,44163,33296,Q2-2025
+2024-03-28,APAC,Risk Advisory,Retail,32028,17871,14156,Q1-2024
+2024-12-18,North America,Risk Advisory,Healthcare,63382,35148,28233,Q4-2024
+2025-12-14,North America,Risk Advisory,Healthcare,11796,7163,4632,Q4-2025
+2024-09-09,LATAM,Strategy Consulting,Healthcare,109722,42957,66764,Q3-2024
+2025-11-29,North America,Tech Implementation,Finance,34875,25284,9590,Q4-2025
+2025-11-08,North America,Strategy Consulting,Retail,56802,18391,38410,Q4-2025
+2024-06-19,APAC,Risk Advisory,Finance,62426,34813,27612,Q2-2024
+2024-04-09,Europe,Risk Advisory,Healthcare,70109,51382,18726,Q2-2024
+2024-10-02,North America,Audit Services,Retail,40092,35498,4593,Q4-2024
+2024-05-03,APAC,Strategy Consulting,Finance,30667,11157,19509,Q2-2024
+2025-04-13,North America,Risk Advisory,Healthcare,13520,9685,3834,Q2-2025
+2025-05-02,APAC,Strategy Consulting,Government,10657,5160,5497,Q2-2025
+2025-02-26,LATAM,Audit Services,Government,63975,50301,13673,Q1-2025
+2025-02-15,North America,Audit Services,Healthcare,25656,22117,3538,Q1-2025
+2024-12-12,Europe,Strategy Consulting,Energy,35052,12883,22168,Q4-2024
+2025-08-28,Europe,Tech Implementation,Retail,15189,10841,4347,Q3-2025
+2024-12-24,North America,Risk Advisory,Retail,21336,15666,5669,Q4-2024
+2025-04-06,Europe,Risk Advisory,Government,74203,42317,31885,Q2-2025
+2024-04-19,LATAM,Strategy Consulting,Finance,45730,21178,24551,Q2-2024
+2025-03-16,APAC,Risk Advisory,Retail,70463,43763,26699,Q1-2025
+2025-01-06,Europe,Tech Implementation,Finance,31423,17307,14115,Q1-2025
+2024-08-15,North America,Risk Advisory,Government,20570,11887,8682,Q3-2024
+2025-06-13,APAC,Tech Implementation,Finance,12788,8604,4183,Q2-2025
+2024-12-28,APAC,Risk Advisory,Finance,33548,21722,11825,Q4-2024
+2025-01-21,APAC,Tech Implementation,Retail,76543,45830,30712,Q1-2025
+2024-09-30,LATAM,Risk Advisory,Government,51633,28718,22914,Q3-2024
+2025-10-06,Europe,Tech Implementation,Government,57109,33576,23532,Q4-2025
+2024-12-08,Europe,Tech Implementation,Retail,26322,16690,9631,Q4-2024
+2025-03-16,LATAM,Audit Services,Healthcare,32627,24767,7859,Q1-2025
+2025-01-28,Europe,Audit Services,Energy,58889,50749,8140,Q1-2025
+2025-03-30,North America,Tech Implementation,Retail,63463,46799,16663,Q1-2025
+2025-03-06,LATAM,Strategy Consulting,Energy,55695,23192,32502,Q1-2025
+2024-06-16,APAC,Risk Advisory,Finance,68941,44488,24452,Q2-2024
+2025-11-04,APAC,Risk Advisory,Retail,12628,8756,3871,Q4-2025
+2025-09-28,APAC,Strategy Consulting,Finance,9609,3309,6299,Q3-2025
+2025-01-10,APAC,Audit Services,Energy,60164,47681,12483,Q1-2025
+2024-09-14,North America,Audit Services,Retail,29736,24367,5368,Q3-2024
+2024-09-29,North America,Tech Implementation,Energy,74527,43153,31373,Q3-2024
+2024-04-12,LATAM,Strategy Consulting,Retail,55051,22436,32615,Q2-2024
+2025-02-25,LATAM,Strategy Consulting,Healthcare,82782,31630,51151,Q1-2025
+2025-07-12,Europe,Risk Advisory,Energy,34728,20159,14568,Q3-2025
+2025-05-30,North America,Tech Implementation,Retail,15610,8835,6774,Q2-2025
+2025-08-05,LATAM,Audit Services,Retail,11712,9685,2027,Q3-2025
+2025-05-24,North America,Audit Services,Healthcare,26761,20350,6411,Q2-2025
+2025-02-23,Europe,Audit Services,Energy,23927,19451,4475,Q1-2025
+2025-06-28,LATAM,Risk Advisory,Healthcare,9692,5367,4324,Q2-2025
+2024-10-05,North America,Audit Services,Retail,62552,47065,15487,Q4-2024
+2025-06-23,Europe,Audit Services,Energy,46004,41245,4758,Q2-2025
+2024-02-13,LATAM,Risk Advisory,Retail,24133,18095,6037,Q1-2024
+2024-10-05,APAC,Tech Implementation,Energy,31192,21305,9886,Q4-2024
+2024-09-01,Europe,Tech Implementation,Government,73173,50777,22395,Q3-2024
+2025-01-06,Europe,Audit Services,Energy,58797,44608,14189,Q1-2025
+2024-10-05,Europe,Strategy Consulting,Energy,26755,10572,16182,Q4-2024
+2025-08-05,Europe,Tech Implementation,Energy,16958,10351,6606,Q3-2025
+2025-12-09,North America,Risk Advisory,Finance,48377,35359,13017,Q4-2025
+2024-05-24,APAC,Audit Services,Healthcare,49780,42668,7111,Q2-2024
+2024-03-14,North America,Tech Implementation,Finance,58499,43367,15131,Q1-2024
+2025-03-15,Europe,Risk Advisory,Finance,55619,37324,18294,Q1-2025
+2024-10-16,North America,Risk Advisory,Healthcare,77322,46492,30829,Q4-2024
+2025-01-24,LATAM,Risk Advisory,Retail,67226,39607,27618,Q1-2025
+2025-06-10,Europe,Tech Implementation,Finance,66589,40074,26514,Q2-2025
+2025-07-21,North America,Risk Advisory,Healthcare,61224,33978,27245,Q3-2025
+2025-08-12,LATAM,Risk Advisory,Energy,55830,37617,18212,Q3-2025
+2024-11-10,Europe,Risk Advisory,Government,57804,39887,17916,Q4-2024
+2024-02-01,Europe,Tech Implementation,Government,21951,13006,8944,Q1-2024
+2024-12-01,APAC,Audit Services,Retail,59709,45878,13831,Q4-2024
+2025-03-15,Europe,Audit Services,Retail,43263,32730,10532,Q1-2025
+2025-05-23,Europe,Strategy Consulting,Government,95050,33325,61724,Q2-2025
+2025-06-26,APAC,Risk Advisory,Finance,65108,40456,24651,Q2-2025
+2024-07-12,North America,Tech Implementation,Government,36130,21129,15000,Q3-2024
+2025-09-19,Europe,Tech Implementation,Healthcare,72658,43648,29009,Q3-2025
+2024-07-23,LATAM,Tech Implementation,Retail,13272,8839,4432,Q3-2024
+2024-04-29,Europe,Audit Services,Healthcare,28271,23250,5021,Q2-2024
+2025-12-21,APAC,Audit Services,Finance,16052,13749,2302,Q4-2025
+2025-07-26,LATAM,Tech Implementation,Government,52892,31851,21040,Q3-2025
+2025-10-12,LATAM,Tech Implementation,Energy,28633,18546,10086,Q4-2025
+2025-08-18,LATAM,Tech Implementation,Government,20865,13354,7510,Q3-2025
+2025-10-14,LATAM,Risk Advisory,Healthcare,37019,26225,10793,Q4-2025
+2024-05-09,LATAM,Strategy Consulting,Government,21967,7645,14322,Q2-2024
+2024-12-20,Europe,Risk Advisory,Retail,53671,37200,16470,Q4-2024
+2024-11-16,Europe,Strategy Consulting,Government,64381,20273,44107,Q4-2024
+2024-05-26,APAC,Tech Implementation,Energy,37585,24112,13472,Q2-2024
+2025-02-09,APAC,Strategy Consulting,Government,10015,3672,6343,Q1-2025
+2024-01-28,LATAM,Audit Services,Energy,19430,16862,2568,Q1-2024
+2025-04-14,North America,Audit Services,Government,59740,45933,13807,Q2-2025
+2025-12-01,LATAM,Risk Advisory,Energy,31423,23471,7951,Q4-2025
+2025-09-27,APAC,Tech Implementation,Healthcare,72259,43626,28632,Q3-2025
+2024-04-24,LATAM,Audit Services,Energy,57372,51292,6080,Q2-2024
+2025-08-16,Europe,Strategy Consulting,Government,76432,30885,45546,Q3-2025
+2024-10-01,LATAM,Risk Advisory,Healthcare,7392,4892,2499,Q4-2024
+2025-11-07,North America,Audit Services,Finance,43118,37366,5751,Q4-2025
+2024-05-26,LATAM,Risk Advisory,Retail,62461,40227,22233,Q2-2024
+2024-06-04,North America,Audit Services,Government,25164,21953,3210,Q2-2024
+2024-10-14,LATAM,Audit Services,Finance,22022,16752,5270,Q4-2024
+2024-10-09,APAC,Tech Implementation,Finance,33260,24938,8321,Q4-2024
+2025-10-07,LATAM,Risk Advisory,Finance,22561,16161,6399,Q4-2025
+2024-02-16,APAC,Tech Implementation,Government,13984,9935,4048,Q1-2024
+2024-08-22,North America,Risk Advisory,Retail,62277,43874,18402,Q3-2024
+2025-12-23,North America,Tech Implementation,Government,60951,44114,16836,Q4-2025
+2025-09-11,North America,Audit Services,Healthcare,45003,34037,10965,Q3-2025
+2024-01-15,North America,Strategy Consulting,Finance,36445,17368,19076,Q1-2024
+2024-07-08,North America,Tech Implementation,Energy,64183,37997,26185,Q3-2024
+2025-06-20,Europe,Strategy Consulting,Healthcare,111759,40333,71425,Q2-2025
+2024-05-17,APAC,Strategy Consulting,Finance,9235,3934,5301,Q2-2024
+2024-01-14,Europe,Strategy Consulting,Healthcare,28957,11556,17400,Q1-2024
+2024-03-16,Europe,Risk Advisory,Retail,11070,6883,4186,Q1-2024
+2024-05-03,APAC,Risk Advisory,Energy,24160,15986,8173,Q2-2024
+2024-12-07,North America,Risk Advisory,Government,65512,39593,25918,Q4-2024
+2025-08-06,APAC,Tech Implementation,Retail,77564,53005,24558,Q3-2025
+2024-05-12,LATAM,Risk Advisory,Government,29538,22109,7428,Q2-2024
+2025-02-04,Europe,Audit Services,Energy,11315,9825,1489,Q1-2025
+2025-10-17,APAC,Risk Advisory,Government,36962,23165,13796,Q4-2025
+2025-07-22,LATAM,Tech Implementation,Finance,8703,5511,3191,Q3-2025
+2024-05-07,APAC,Strategy Consulting,Government,101151,43344,57806,Q2-2024
+2024-07-31,North America,Strategy Consulting,Government,24250,7993,16256,Q3-2024
+2025-10-12,APAC,Risk Advisory,Energy,58425,40479,17945,Q4-2025
+2024-05-21,LATAM,Risk Advisory,Retail,5291,3404,1886,Q2-2024
+2024-07-24,LATAM,Tech Implementation,Finance,16597,11458,5138,Q3-2024
+2024-08-10,Europe,Risk Advisory,Retail,15373,8965,6407,Q3-2024
+2025-03-31,APAC,Audit Services,Energy,54897,45525,9371,Q1-2025
+2025-05-28,LATAM,Tech Implementation,Government,67568,46497,21070,Q2-2025
+2024-02-10,LATAM,Audit Services,Energy,56322,49681,6640,Q1-2024
+2025-06-25,Europe,Tech Implementation,Healthcare,43808,25139,18668,Q2-2025
+2025-10-09,LATAM,Risk Advisory,Finance,71716,47928,23787,Q4-2025
+2025-02-25,North America,Audit Services,Healthcare,10919,8275,2644,Q1-2025
+2025-09-24,APAC,Tech Implementation,Finance,63185,36720,26464,Q3-2025
+2025-05-04,APAC,Tech Implementation,Government,32832,23999,8832,Q2-2025
+2024-10-30,Europe,Tech Implementation,Finance,19435,12454,6980,Q4-2024
+2025-02-03,Europe,Risk Advisory,Retail,21178,13660,7517,Q1-2025
+2025-05-30,North America,Tech Implementation,Healthcare,46091,25462,20628,Q2-2025
+2025-03-24,LATAM,Risk Advisory,Healthcare,63766,40261,23504,Q1-2025
+2024-08-02,LATAM,Tech Implementation,Retail,67946,37769,30176,Q3-2024
+2024-03-10,APAC,Audit Services,Retail,4790,3873,917,Q1-2024
+2024-09-12,APAC,Audit Services,Healthcare,19824,15606,4218,Q3-2024
+2024-07-30,Europe,Tech Implementation,Retail,39166,25372,13793,Q3-2024
+2024-12-16,LATAM,Strategy Consulting,Finance,8262,3349,4912,Q4-2024
+2025-04-03,Europe,Strategy Consulting,Retail,97432,43282,54150,Q2-2025
+2024-03-01,Europe,Risk Advisory,Finance,72240,40980,31259,Q1-2024
+2024-08-20,APAC,Risk Advisory,Finance,25662,17425,8236,Q3-2024
+2024-08-20,Europe,Strategy Consulting,Retail,53527,25657,27869,Q3-2024
+2025-09-06,Europe,Audit Services,Finance,38160,28874,9286,Q3-2025
+2025-11-22,APAC,Strategy Consulting,Government,23365,9570,13795,Q4-2025
+2024-02-20,LATAM,Tech Implementation,Government,43522,30392,13129,Q1-2024
+2024-02-16,LATAM,Audit Services,Healthcare,26301,22701,3600,Q1-2024
+2025-02-09,LATAM,Risk Advisory,Healthcare,26220,14707,11512,Q1-2025
+2024-11-23,LATAM,Strategy Consulting,Energy,104227,50577,53649,Q4-2024
+2024-08-21,North America,Strategy Consulting,Healthcare,119958,46289,73668,Q3-2024
+2025-07-04,LATAM,Tech Implementation,Finance,11153,8272,2880,Q3-2025
+2025-03-30,Europe,Strategy Consulting,Retail,103810,41207,62602,Q1-2025
+2025-09-03,LATAM,Risk Advisory,Healthcare,5916,3477,2438,Q3-2025
+2025-10-01,LATAM,Tech Implementation,Energy,76135,56143,19991,Q4-2025
+2025-07-12,APAC,Risk Advisory,Healthcare,49107,32592,16514,Q3-2025
+2025-12-27,North America,Risk Advisory,Finance,73796,44381,29414,Q4-2025
+2024-08-27,Europe,Audit Services,Finance,54776,41512,13264,Q3-2024
+2024-04-22,North America,Audit Services,Government,30440,23080,7360,Q2-2024
+2025-04-27,Europe,Risk Advisory,Retail,77739,45226,32512,Q2-2025
+2024-07-03,Europe,Strategy Consulting,Retail,18195,7344,10850,Q3-2024
+2024-02-22,Europe,Audit Services,Finance,56002,47024,8977,Q1-2024
+2024-11-23,North America,Strategy Consulting,Finance,35284,13102,22181,Q4-2024
+2024-12-23,LATAM,Strategy Consulting,Retail,78916,31356,47559,Q4-2024
+2024-05-09,APAC,Tech Implementation,Government,44703,25879,18823,Q2-2024
+2025-08-05,North America,Tech Implementation,Energy,66940,41945,24994,Q3-2025
+2025-10-09,LATAM,Strategy Consulting,Healthcare,27540,10811,16728,Q4-2025
+2025-04-09,LATAM,Tech Implementation,Government,37604,20880,16723,Q2-2025
+2024-10-21,APAC,Tech Implementation,Finance,35923,21094,14828,Q4-2024
+2025-12-26,LATAM,Audit Services,Finance,58428,47719,10708,Q4-2025
+2025-05-28,LATAM,Risk Advisory,Finance,22578,12892,9685,Q2-2025
+2025-10-04,APAC,Strategy Consulting,Finance,37485,13547,23937,Q4-2025
+2024-07-19,LATAM,Risk Advisory,Energy,36727,27139,9587,Q3-2024
+2025-12-25,LATAM,Tech Implementation,Government,44043,25509,18533,Q4-2025
+2024-10-04,North America,Risk Advisory,Finance,46427,31206,15220,Q4-2024
+2024-12-12,APAC,Strategy Consulting,Government,89298,40556,48741,Q4-2024
+2025-01-06,North America,Tech Implementation,Energy,28578,19225,9352,Q1-2025
+2024-08-16,APAC,Audit Services,Government,21655,19410,2244,Q3-2024
+2024-04-09,APAC,Risk Advisory,Retail,77769,45754,32014,Q2-2024
+2024-08-17,Europe,Tech Implementation,Finance,15986,11507,4478,Q3-2024
+2024-11-26,APAC,Tech Implementation,Healthcare,14733,9194,5538,Q4-2024
+2024-10-03,APAC,Tech Implementation,Finance,17828,12507,5320,Q4-2024
+2024-06-25,APAC,Risk Advisory,Government,42449,30080,12368,Q2-2024
+2024-11-09,Europe,Strategy Consulting,Finance,30958,15242,15716,Q4-2024
+2024-03-27,Europe,Audit Services,Healthcare,55300,45418,9882,Q1-2024
+2025-12-27,LATAM,Tech Implementation,Retail,35474,24033,11440,Q4-2025
+2025-08-02,North America,Audit Services,Energy,29348,22990,6358,Q3-2025
+2024-01-15,Europe,Tech Implementation,Energy,44208,25355,18852,Q1-2024
+2024-05-24,North America,Strategy Consulting,Healthcare,49656,17383,32272,Q2-2024
+2024-11-30,North America,Tech Implementation,Government,20490,11288,9201,Q4-2024
+2024-10-24,Europe,Strategy Consulting,Finance,110974,51209,59764,Q4-2024
+2025-04-08,LATAM,Tech Implementation,Finance,26320,16083,10236,Q2-2025
+2024-01-29,Europe,Audit Services,Retail,28942,24216,4726,Q1-2024
+2025-05-22,Europe,Risk Advisory,Government,43193,27999,15193,Q2-2025
+2025-05-25,APAC,Risk Advisory,Retail,50627,31357,19269,Q2-2025
+2025-12-14,North America,Strategy Consulting,Healthcare,84441,25698,58742,Q4-2025
+2024-04-29,APAC,Strategy Consulting,Finance,94720,42888,51832,Q2-2024
+2024-08-15,APAC,Risk Advisory,Government,13138,9556,3581,Q3-2024
+2025-11-30,APAC,Strategy Consulting,Energy,101454,42394,59059,Q4-2025
+2024-10-29,APAC,Risk Advisory,Finance,33181,21596,11584,Q4-2024
+2024-09-25,LATAM,Strategy Consulting,Energy,64840,19903,44937,Q3-2024
+2024-06-04,LATAM,Audit Services,Government,28943,22513,6429,Q2-2024
+2024-11-06,APAC,Risk Advisory,Energy,59622,41374,18247,Q4-2024
+2024-02-27,Europe,Risk Advisory,Retail,76606,53884,22721,Q1-2024
+2025-12-29,APAC,Audit Services,Healthcare,47055,41684,5370,Q4-2025
+2024-03-19,LATAM,Strategy Consulting,Energy,36303,15730,20572,Q1-2024
+2025-10-13,APAC,Strategy Consulting,Healthcare,73380,29375,44004,Q4-2025
+2024-09-16,APAC,Strategy Consulting,Retail,97704,45989,51714,Q3-2024
+2024-05-04,Europe,Tech Implementation,Retail,43456,26756,16699,Q2-2024
+2025-03-03,North America,Strategy Consulting,Finance,22351,7348,15003,Q1-2025
+2024-05-24,LATAM,Audit Services,Finance,31522,27950,3571,Q2-2024
+2024-10-30,LATAM,Tech Implementation,Healthcare,76798,56016,20781,Q4-2024
+2025-01-27,North America,Risk Advisory,Finance,58523,38830,19692,Q1-2025
+2024-10-24,APAC,Risk Advisory,Finance,9834,6824,3009,Q4-2024
+2024-01-15,LATAM,Risk Advisory,Healthcare,18630,13363,5266,Q1-2024
+2025-01-20,APAC,Tech Implementation,Government,42570,28184,14385,Q1-2025
+2024-08-21,APAC,Risk Advisory,Finance,30278,18872,11405,Q3-2024
+2024-08-16,Europe,Risk Advisory,Healthcare,68906,49008,19897,Q3-2024
+2025-03-03,North America,Tech Implementation,Government,33455,24359,9095,Q1-2025
+2024-10-16,APAC,Tech Implementation,Energy,75514,54666,20847,Q4-2024
+2025-03-06,North America,Tech Implementation,Government,69670,39086,30583,Q1-2025
+2025-09-04,Europe,Strategy Consulting,Government,63664,31707,31957,Q3-2025
+2025-07-20,LATAM,Audit Services,Healthcare,40071,33724,6346,Q3-2025
+2025-02-24,North America,Risk Advisory,Finance,72464,47045,25418,Q1-2025
+2024-04-15,APAC,Strategy Consulting,Government,108319,39024,69294,Q2-2024
+2025-11-02,LATAM,Audit Services,Healthcare,27446,20826,6619,Q4-2025
+2025-07-31,APAC,Risk Advisory,Retail,66687,41649,25037,Q3-2025
+2025-06-18,Europe,Audit Services,Energy,13688,11731,1956,Q2-2025
+2024-11-01,Europe,Strategy Consulting,Finance,18264,9083,9180,Q4-2024
+2024-04-26,LATAM,Strategy Consulting,Government,63523,29061,34461,Q2-2024
+2025-09-09,APAC,Risk Advisory,Finance,59342,35511,23830,Q3-2025
+2024-03-18,APAC,Risk Advisory,Energy,9993,5689,4303,Q1-2024
+2024-02-25,APAC,Audit Services,Energy,23701,21136,2565,Q1-2024
+2024-01-12,North America,Strategy Consulting,Healthcare,55384,23668,31716,Q1-2024
+2024-10-05,APAC,Audit Services,Finance,17644,15033,2610,Q4-2024
+2024-10-18,Europe,Tech Implementation,Energy,39568,24396,15171,Q4-2024
+2024-12-05,LATAM,Audit Services,Retail,44480,39783,4696,Q4-2024
+2025-05-02,Europe,Strategy Consulting,Government,29661,12909,16751,Q2-2025
+2024-05-02,LATAM,Audit Services,Finance,17358,13278,4079,Q2-2024
+2025-03-15,North America,Strategy Consulting,Retail,9699,3756,5942,Q1-2025
+2025-08-17,Europe,Strategy Consulting,Retail,63829,27967,35861,Q3-2025
+2024-08-27,APAC,Audit Services,Finance,22866,17890,4976,Q3-2024
+2025-01-26,LATAM,Tech Implementation,Finance,28100,18585,9514,Q1-2025
+2024-11-12,APAC,Audit Services,Energy,10109,7952,2156,Q4-2024
+2024-08-30,APAC,Audit Services,Finance,16633,13641,2992,Q3-2024
+2024-04-06,APAC,Risk Advisory,Retail,37664,25315,12348,Q2-2024
+2024-04-03,Europe,Strategy Consulting,Retail,119044,44366,74678,Q2-2024
+2025-07-17,North America,Audit Services,Energy,59179,44643,14535,Q3-2025
+2025-10-26,Europe,Strategy Consulting,Retail,52852,24128,28724,Q4-2025
+2024-02-20,Europe,Audit Services,Finance,34792,27486,7306,Q1-2024
+2025-08-02,LATAM,Strategy Consulting,Energy,63940,24882,39058,Q3-2025
+2025-06-26,APAC,Audit Services,Energy,53092,45768,7324,Q2-2025
+2024-10-31,Europe,Risk Advisory,Finance,52722,34623,18098,Q4-2024
+2024-08-22,LATAM,Strategy Consulting,Healthcare,111078,54183,56894,Q3-2024
+2024-05-12,North America,Tech Implementation,Finance,23943,13921,10021,Q2-2024
+2024-05-25,APAC,Tech Implementation,Finance,46502,25764,20737,Q2-2024
+2025-04-25,APAC,Strategy Consulting,Healthcare,115362,45056,70305,Q2-2025
+2024-04-15,LATAM,Strategy Consulting,Energy,78576,29831,48744,Q2-2024
+2025-04-24,APAC,Strategy Consulting,Government,66441,25576,40864,Q2-2025
+2025-04-11,North America,Risk Advisory,Government,51948,29960,21987,Q2-2025
+2025-11-21,North America,Risk Advisory,Finance,74807,52388,22418,Q4-2025
+2024-02-20,APAC,Strategy Consulting,Finance,64792,32364,32428,Q1-2024
+2025-09-09,LATAM,Strategy Consulting,Energy,57907,17574,40333,Q3-2025
+2024-12-24,APAC,Risk Advisory,Finance,38945,25116,13828,Q4-2024
+2024-10-07,Europe,Risk Advisory,Retail,69087,50010,19076,Q4-2024
+2025-02-25,LATAM,Strategy Consulting,Energy,90796,37664,53132,Q1-2025
+2024-07-30,LATAM,Risk Advisory,Government,37891,24083,13807,Q3-2024
+2024-07-03,LATAM,Strategy Consulting,Government,107841,50022,57818,Q3-2024
+2024-08-15,LATAM,Risk Advisory,Finance,45020,33106,11913,Q3-2024
+2024-12-12,Europe,Risk Advisory,Healthcare,47515,35500,12014,Q4-2024
+2025-07-01,North America,Risk Advisory,Finance,19337,10991,8345,Q3-2025
+2025-11-10,LATAM,Risk Advisory,Retail,36462,20628,15833,Q4-2025
+2024-09-20,APAC,Strategy Consulting,Government,104967,44511,60455,Q3-2024
+2025-01-24,APAC,Tech Implementation,Government,36485,23358,13126,Q1-2025
+2025-12-28,LATAM,Strategy Consulting,Healthcare,59769,27824,31944,Q4-2025
+2024-04-11,LATAM,Risk Advisory,Energy,11288,6457,4830,Q2-2024
+2025-05-09,North America,Audit Services,Government,25318,20239,5078,Q2-2025
+2025-05-22,Europe,Risk Advisory,Healthcare,36935,25855,11079,Q2-2025
+2024-09-10,APAC,Strategy Consulting,Finance,68829,29019,39809,Q3-2024
+2024-02-06,Europe,Tech Implementation,Energy,13072,9352,3719,Q1-2024
+2024-07-07,LATAM,Risk Advisory,Retail,65458,37311,28146,Q3-2024
+2024-02-03,North America,Strategy Consulting,Retail,70636,29586,41049,Q1-2024
+2024-04-26,North America,Risk Advisory,Energy,66384,41724,24659,Q2-2024
+2025-02-07,North America,Tech Implementation,Finance,60169,34239,25929,Q1-2025
+2025-02-18,APAC,Risk Advisory,Healthcare,65492,49099,16392,Q1-2025
+2024-05-27,LATAM,Tech Implementation,Retail,55385,33817,21567,Q2-2024
+2025-03-02,LATAM,Audit Services,Energy,31303,27443,3859,Q1-2025
+2024-03-31,North America,Audit Services,Healthcare,21971,18686,3284,Q1-2024
+2024-04-21,LATAM,Risk Advisory,Retail,69784,49466,20317,Q2-2024
+2024-01-01,LATAM,Tech Implementation,Finance,17666,10179,7486,Q1-2024
+2024-09-07,APAC,Risk Advisory,Government,59166,34893,24272,Q3-2024
+2025-07-15,North America,Strategy Consulting,Government,69597,29055,40541,Q3-2025
+2024-12-07,APAC,Tech Implementation,Energy,61107,41299,19807,Q4-2024
+2024-04-05,Europe,Tech Implementation,Finance,13083,8249,4833,Q2-2024
+2024-10-31,APAC,Strategy Consulting,Retail,16132,7256,8876,Q4-2024
+2025-10-13,Europe,Strategy Consulting,Finance,54565,21881,32684,Q4-2025
+2025-10-23,LATAM,Strategy Consulting,Government,21471,9044,12426,Q4-2025
+2025-04-08,APAC,Audit Services,Finance,48080,39918,8161,Q2-2025
+2025-08-24,Europe,Audit Services,Finance,26460,22470,3989,Q3-2025
+2024-05-31,APAC,Strategy Consulting,Retail,82389,38846,43542,Q2-2024
+2024-02-17,North America,Risk Advisory,Government,34602,19554,15047,Q1-2024
+2024-01-03,LATAM,Risk Advisory,Energy,72386,39930,32455,Q1-2024
+2024-02-05,APAC,Risk Advisory,Retail,63874,41534,22339,Q1-2024
+2024-03-11,LATAM,Strategy Consulting,Retail,78433,32378,46055,Q1-2024
+2024-11-22,Europe,Strategy Consulting,Finance,75051,33456,41594,Q4-2024
+2025-03-26,Europe,Tech Implementation,Retail,21020,13147,7872,Q1-2025
+2024-06-05,LATAM,Risk Advisory,Government,18818,13902,4915,Q2-2024
+2025-09-27,LATAM,Audit Services,Finance,20880,15863,5016,Q3-2025
+2024-12-30,North America,Audit Services,Healthcare,19444,17265,2178,Q4-2024
+2024-06-09,Europe,Tech Implementation,Finance,45371,29095,16275,Q2-2024
+2025-06-26,Europe,Strategy Consulting,Healthcare,39468,19031,20436,Q2-2025
+2024-05-05,North America,Tech Implementation,Retail,45023,32764,12258,Q2-2024
+2024-09-26,APAC,Audit Services,Government,21877,18492,3385,Q3-2024
+2024-10-03,LATAM,Risk Advisory,Government,16099,10498,5600,Q4-2024
+2025-06-24,North America,Audit Services,Finance,55398,49357,6040,Q2-2025
+2024-01-20,Europe,Audit Services,Healthcare,16927,14313,2613,Q1-2024
+2025-05-22,APAC,Audit Services,Finance,17582,15258,2323,Q2-2025
+2024-10-21,APAC,Tech Implementation,Finance,75762,42107,33654,Q4-2024
+2025-11-09,APAC,Audit Services,Government,14365,12728,1637,Q4-2025
+2024-04-09,North America,Strategy Consulting,Energy,67300,21037,46263,Q2-2024
+2025-03-13,North America,Strategy Consulting,Retail,79129,36640,42489,Q1-2025
+2024-03-14,North America,Strategy Consulting,Government,86277,33301,52975,Q1-2024
+2025-05-28,APAC,Audit Services,Government,39753,32574,7179,Q2-2025
+2024-09-20,North America,Audit Services,Healthcare,63002,49302,13699,Q3-2024
+2024-03-23,Europe,Risk Advisory,Healthcare,15359,9199,6159,Q1-2024
+2024-04-26,Europe,Risk Advisory,Finance,8763,6333,2429,Q2-2024
+2024-07-08,APAC,Audit Services,Government,12142,10311,1831,Q3-2024
+2024-09-13,North America,Risk Advisory,Retail,12869,8767,4101,Q3-2024
+2024-07-11,North America,Risk Advisory,Government,33104,24130,8973,Q3-2024
+2024-09-12,APAC,Risk Advisory,Energy,49899,29858,20040,Q3-2024
+2025-10-31,Europe,Risk Advisory,Finance,64270,38372,25897,Q4-2025
+2025-08-31,APAC,Strategy Consulting,Healthcare,101544,40472,61071,Q3-2025
+2025-05-17,North America,Strategy Consulting,Finance,111271,40020,71250,Q2-2025
+2025-12-03,LATAM,Risk Advisory,Healthcare,76480,55269,21210,Q4-2025
+2024-01-13,LATAM,Risk Advisory,Government,72986,48065,24920,Q1-2024
+2025-01-23,APAC,Audit Services,Finance,56668,44422,12245,Q1-2025
+2024-07-18,Europe,Audit Services,Energy,6949,5582,1366,Q3-2024
+2025-09-26,Europe,Tech Implementation,Retail,73946,54208,19737,Q3-2025
+2024-01-29,Europe,Audit Services,Government,29909,26755,3153,Q1-2024
+2024-10-27,North America,Strategy Consulting,Energy,42630,18865,23764,Q4-2024
+2025-05-18,Europe,Strategy Consulting,Energy,13411,5771,7640,Q2-2025
+2024-10-26,APAC,Strategy Consulting,Energy,81747,27169,54577,Q4-2024
+2025-06-09,LATAM,Tech Implementation,Retail,41656,24300,17355,Q2-2025
+2025-02-05,Europe,Audit Services,Retail,26043,19889,6153,Q1-2025
+2025-08-17,LATAM,Strategy Consulting,Government,36924,12477,24446,Q3-2025
+2024-05-02,North America,Audit Services,Retail,17889,14842,3046,Q2-2024
+2025-05-13,LATAM,Risk Advisory,Healthcare,42651,23934,18716,Q2-2025
+2025-06-17,APAC,Strategy Consulting,Energy,47946,18953,28992,Q2-2025
+2025-06-12,Europe,Strategy Consulting,Finance,44191,17579,26612,Q2-2025
+2025-07-09,APAC,Audit Services,Energy,31812,25197,6614,Q3-2025
+2025-09-30,Europe,Risk Advisory,Finance,25058,15681,9376,Q3-2025
+2025-03-03,LATAM,Strategy Consulting,Energy,32092,11454,20638,Q1-2025
+2025-02-05,Europe,Strategy Consulting,Government,102768,33963,68804,Q1-2025
+2024-12-15,LATAM,Audit Services,Healthcare,47362,40494,6867,Q4-2024
+2025-10-25,North America,Risk Advisory,Retail,72402,50783,21618,Q4-2025
+2025-05-12,Europe,Risk Advisory,Energy,20178,14527,5650,Q2-2025
+2024-09-22,LATAM,Audit Services,Finance,38732,29270,9461,Q3-2024
+2025-08-31,Europe,Strategy Consulting,Government,98862,33160,65701,Q3-2025
+2024-07-07,APAC,Tech Implementation,Healthcare,64074,46217,17856,Q3-2024
+2024-08-20,APAC,Strategy Consulting,Healthcare,85132,30211,54921,Q3-2024
+2025-12-23,North America,Audit Services,Healthcare,4374,3904,469,Q4-2025
+2025-03-27,LATAM,Risk Advisory,Retail,31846,20000,11845,Q1-2025
+2024-12-23,LATAM,Audit Services,Government,6160,5275,884,Q4-2024
+2024-01-14,Europe,Strategy Consulting,Government,80839,39505,41333,Q1-2024
+2024-05-30,Europe,Risk Advisory,Government,5855,4251,1603,Q2-2024
+2024-03-13,LATAM,Audit Services,Finance,4513,3798,715,Q1-2024
+2025-03-28,North America,Risk Advisory,Retail,15788,11040,4747,Q1-2025
+2025-10-02,LATAM,Audit Services,Government,36720,30991,5729,Q4-2025
+2024-01-29,Europe,Audit Services,Energy,38934,30959,7974,Q1-2024
+2025-07-25,North America,Strategy Consulting,Healthcare,17619,7676,9942,Q3-2025
+2025-09-08,LATAM,Audit Services,Government,19574,15450,4124,Q3-2025
+2025-07-02,APAC,Strategy Consulting,Finance,101169,38936,62232,Q3-2025
+2025-07-22,APAC,Strategy Consulting,Retail,30304,10283,20020,Q3-2025
+2025-07-28,Europe,Audit Services,Government,32452,28511,3941,Q3-2025
+2025-07-01,Europe,Audit Services,Healthcare,42676,35381,7294,Q3-2025
+2025-01-28,Europe,Tech Implementation,Government,37145,23984,13160,Q1-2025
+2025-09-17,Europe,Audit Services,Retail,32020,25958,6062,Q3-2025
+2025-03-22,North America,Tech Implementation,Retail,17210,9501,7708,Q1-2025
+2025-12-20,North America,Tech Implementation,Healthcare,55398,31329,24068,Q4-2025
+2024-06-28,Europe,Risk Advisory,Healthcare,5812,4307,1504,Q2-2024
+2025-06-30,Europe,Tech Implementation,Government,59177,40143,19033,Q2-2025
+2025-11-10,North America,Tech Implementation,Healthcare,39559,23368,16190,Q4-2025
+2025-01-16,North America,Risk Advisory,Finance,62515,42241,20273,Q1-2025
+2025-10-24,Europe,Tech Implementation,Government,75268,43291,31976,Q4-2025
+2024-10-07,APAC,Risk Advisory,Government,42575,26202,16372,Q4-2024
+2025-03-14,North America,Strategy Consulting,Government,14515,6605,7909,Q1-2025
+2025-05-07,North America,Tech Implementation,Healthcare,15271,10303,4967,Q2-2025
+2025-05-25,APAC,Tech Implementation,Finance,70764,44988,25775,Q2-2025
+2025-04-16,APAC,Risk Advisory,Energy,76711,42493,34217,Q2-2025
+2024-06-28,North America,Strategy Consulting,Finance,86725,30317,56407,Q2-2024
+2025-03-30,North America,Strategy Consulting,Government,10794,4773,6020,Q1-2025
+2025-01-30,LATAM,Risk Advisory,Finance,26488,18847,7640,Q1-2025
+2025-11-24,APAC,Audit Services,Government,23375,20742,2632,Q4-2025
+2024-03-03,APAC,Audit Services,Healthcare,36784,30307,6476,Q1-2024
+2024-08-04,LATAM,Strategy Consulting,Government,100683,33886,66796,Q3-2024
+2024-09-06,APAC,Strategy Consulting,Retail,24874,11894,12979,Q3-2024
+2025-12-27,LATAM,Strategy Consulting,Healthcare,46980,19757,27222,Q4-2025
+2025-07-01,Europe,Risk Advisory,Retail,50000,31110,18889,Q3-2025
+2024-06-12,APAC,Audit Services,Healthcare,7157,5718,1439,Q2-2024
+2024-03-01,LATAM,Audit Services,Healthcare,41892,31789,10103,Q1-2024
+2024-02-26,Europe,Risk Advisory,Government,31366,20873,10492,Q1-2024
+2025-08-02,LATAM,Strategy Consulting,Government,111847,38970,72877,Q3-2025
+2025-12-24,North America,Strategy Consulting,Finance,21438,9439,11998,Q4-2025
+2024-03-06,APAC,Tech Implementation,Government,5418,3953,1464,Q1-2024
+2024-10-20,North America,Audit Services,Retail,24342,20333,4009,Q4-2024
+2025-05-30,LATAM,Tech Implementation,Finance,77020,56397,20622,Q2-2025
+2024-03-25,North America,Risk Advisory,Healthcare,53424,38470,14953,Q1-2024
+2025-05-09,APAC,Tech Implementation,Retail,79588,45734,33853,Q2-2025
+2024-04-28,North America,Risk Advisory,Government,71983,40268,31714,Q2-2024
+2024-04-11,LATAM,Tech Implementation,Healthcare,46366,32795,13570,Q2-2024
+2025-04-10,APAC,Audit Services,Healthcare,4372,3689,683,Q2-2025
+2025-02-26,North America,Risk Advisory,Healthcare,14083,9313,4769,Q1-2025
+2025-07-12,LATAM,Tech Implementation,Retail,48782,36527,12254,Q3-2025
+2025-12-21,North America,Audit Services,Retail,44825,36590,8234,Q4-2025
+2025-04-03,LATAM,Strategy Consulting,Retail,107982,48895,59086,Q2-2025
+2025-06-09,North America,Audit Services,Retail,52750,46190,6559,Q2-2025
+2025-11-18,LATAM,Strategy Consulting,Retail,38319,14352,23966,Q4-2025
+2024-03-04,LATAM,Tech Implementation,Healthcare,23083,15350,7732,Q1-2024
+2024-02-06,LATAM,Strategy Consulting,Energy,89454,37901,51552,Q1-2024
+2025-02-20,North America,Risk Advisory,Finance,45378,26453,18924,Q1-2025
+2025-09-19,Europe,Strategy Consulting,Healthcare,12736,5375,7361,Q3-2025
+2024-07-10,APAC,Audit Services,Retail,19198,16683,2514,Q3-2024
+2024-03-02,North America,Strategy Consulting,Healthcare,73407,35102,38304,Q1-2024
+2024-08-01,North America,Tech Implementation,Finance,38971,23308,15662,Q3-2024
+2024-04-19,Europe,Tech Implementation,Government,35499,23475,12023,Q2-2024
+2025-09-02,LATAM,Strategy Consulting,Retail,20877,7225,13651,Q3-2025
+2024-03-14,North America,Tech Implementation,Retail,24282,18114,6167,Q1-2024
+2024-06-18,Europe,Audit Services,Energy,16337,12588,3749,Q2-2024
+2024-11-08,APAC,Tech Implementation,Energy,60080,44210,15869,Q4-2024
+2024-02-16,Europe,Tech Implementation,Energy,67873,49239,18633,Q1-2024
+2024-01-03,APAC,Strategy Consulting,Retail,86707,40483,46223,Q1-2024
+2024-11-24,Europe,Tech Implementation,Government,31818,23692,8125,Q4-2024
+2024-11-11,APAC,Tech Implementation,Healthcare,52402,38676,13725,Q4-2024
+2024-10-11,Europe,Risk Advisory,Retail,17547,9666,7880,Q4-2024
+2024-05-07,Europe,Risk Advisory,Energy,8417,5792,2624,Q2-2024
+2025-04-03,APAC,Audit Services,Energy,19586,16779,2807,Q2-2025
+2025-07-22,Europe,Audit Services,Retail,21521,16838,4683,Q3-2025
+2024-03-13,APAC,Strategy Consulting,Retail,59044,25164,33879,Q1-2024
+2024-10-07,LATAM,Tech Implementation,Finance,53882,33125,20756,Q4-2024
+2024-03-21,APAC,Tech Implementation,Retail,60589,37228,23360,Q1-2024
+2025-09-22,North America,Strategy Consulting,Healthcare,116880,40609,76270,Q3-2025
+2024-03-03,APAC,Risk Advisory,Retail,38254,24428,13825,Q1-2024
+2025-10-30,North America,Risk Advisory,Finance,52808,36055,16752,Q4-2025
+2024-08-18,Europe,Tech Implementation,Retail,31181,20461,10719,Q3-2024
+2025-09-18,North America,Audit Services,Government,36740,28222,8518,Q3-2025
+2024-04-22,North America,Tech Implementation,Healthcare,46896,29411,17484,Q2-2024
+2025-10-10,APAC,Tech Implementation,Energy,52555,29366,23188,Q4-2025
+2024-04-06,LATAM,Tech Implementation,Retail,29478,17854,11623,Q2-2024
+2025-06-07,LATAM,Strategy Consulting,Finance,118710,41942,76767,Q2-2025
+2025-07-22,Europe,Strategy Consulting,Healthcare,104475,51188,53286,Q3-2025
+2025-01-23,APAC,Audit Services,Retail,58224,48113,10111,Q1-2025
+2025-10-18,APAC,Audit Services,Finance,7303,6484,818,Q4-2025
+2025-05-15,Europe,Tech Implementation,Finance,10482,7284,3197,Q2-2025
+2024-12-02,APAC,Audit Services,Healthcare,38636,31177,7458,Q4-2024
+2025-08-30,LATAM,Strategy Consulting,Retail,98032,43941,54090,Q3-2025
+2024-05-30,LATAM,Tech Implementation,Finance,23474,13740,9733,Q2-2024
+2025-04-30,Europe,Audit Services,Healthcare,26831,22763,4067,Q2-2025
+2024-08-11,APAC,Tech Implementation,Healthcare,19202,12626,6575,Q3-2024
+2025-08-15,APAC,Tech Implementation,Government,79348,59347,20000,Q3-2025
+2025-03-17,LATAM,Strategy Consulting,Finance,116319,41870,74448,Q1-2025
+2025-03-02,APAC,Tech Implementation,Healthcare,17791,9809,7981,Q1-2025
+2025-05-23,APAC,Tech Implementation,Finance,50279,34239,16039,Q2-2025
+2024-11-08,LATAM,Audit Services,Government,31379,23934,7444,Q4-2024
+2025-09-17,APAC,Audit Services,Government,30572,24138,6434,Q3-2025
+2025-09-02,North America,Tech Implementation,Finance,10160,6376,3783,Q3-2025
+2025-06-29,LATAM,Audit Services,Finance,46729,36899,9830,Q2-2025
+2025-12-04,LATAM,Strategy Consulting,Healthcare,72432,22804,49627,Q4-2025
+2024-09-09,Europe,Strategy Consulting,Finance,75274,23404,51870,Q3-2024
+2024-11-27,APAC,Strategy Consulting,Energy,80316,36250,44065,Q4-2024
+2024-11-08,North America,Tech Implementation,Retail,30611,22832,7778,Q4-2024
+2024-03-05,Europe,Strategy Consulting,Energy,94120,33849,60270,Q1-2024
+2024-07-11,North America,Risk Advisory,Retail,64389,46767,17621,Q3-2024
+2024-02-03,APAC,Risk Advisory,Energy,32003,18377,13625,Q1-2024
+2025-01-26,APAC,Tech Implementation,Healthcare,28464,19914,8549,Q1-2025
+2024-10-26,APAC,Risk Advisory,Finance,22994,17089,5904,Q4-2024
+2024-07-24,APAC,Tech Implementation,Finance,67007,48564,18442,Q3-2024
+2025-05-30,Europe,Strategy Consulting,Finance,26619,11830,14788,Q2-2025
+2024-05-22,APAC,Strategy Consulting,Finance,112716,49927,62788,Q2-2024
+2025-06-20,APAC,Tech Implementation,Healthcare,34430,21522,12907,Q2-2025
+2025-05-22,LATAM,Audit Services,Healthcare,9052,7729,1323,Q2-2025
+2024-10-16,Europe,Strategy Consulting,Retail,10447,4402,6044,Q4-2024
+2024-02-19,Europe,Tech Implementation,Government,49232,29754,19477,Q1-2024
+2025-05-03,LATAM,Tech Implementation,Finance,30682,17977,12704,Q2-2025
+2024-05-31,LATAM,Tech Implementation,Retail,71416,44932,26483,Q2-2024
+2025-02-05,APAC,Strategy Consulting,Healthcare,13147,5127,8019,Q1-2025
+2025-08-26,LATAM,Tech Implementation,Healthcare,79943,53488,26454,Q3-2025
+2024-01-11,North America,Strategy Consulting,Retail,116374,44308,72066,Q1-2024
+2024-07-16,North America,Strategy Consulting,Government,96615,31951,64663,Q3-2024
+2024-04-15,Europe,Audit Services,Government,28600,21984,6615,Q2-2024
+2025-12-11,APAC,Risk Advisory,Finance,32793,21409,11383,Q4-2025
+2024-12-11,LATAM,Audit Services,Retail,6672,5647,1024,Q4-2024
+2024-09-18,APAC,Risk Advisory,Energy,33849,25128,8720,Q3-2024
+2024-02-28,Europe,Tech Implementation,Government,46904,30930,15973,Q1-2024
+2025-06-06,APAC,Risk Advisory,Retail,67289,45854,21434,Q2-2025
+2025-04-27,North America,Risk Advisory,Retail,48142,34740,13401,Q2-2025
+2024-07-28,APAC,Risk Advisory,Energy,46097,27576,18520,Q3-2024
+2025-12-31,LATAM,Tech Implementation,Retail,44193,29528,14664,Q4-2025
+2024-04-17,North America,Tech Implementation,Retail,28029,19088,8940,Q2-2024
+2025-10-03,LATAM,Risk Advisory,Retail,35338,23329,12008,Q4-2025
+2024-07-05,North America,Risk Advisory,Energy,27685,17162,10522,Q3-2024
+2024-11-20,Europe,Audit Services,Government,28271,22602,5669,Q4-2024
+2025-09-27,Europe,Tech Implementation,Finance,68963,38296,30666,Q3-2025
+2024-07-30,Europe,Audit Services,Energy,10459,8915,1543,Q3-2024
+2025-01-29,LATAM,Risk Advisory,Healthcare,15863,9561,6301,Q1-2025
+2025-06-03,North America,Tech Implementation,Finance,18872,13472,5399,Q2-2025
+2025-04-15,APAC,Audit Services,Retail,12367,9727,2639,Q2-2025
+2025-06-14,Europe,Strategy Consulting,Government,76765,27945,48820,Q2-2025
+2024-05-11,LATAM,Audit Services,Retail,62848,52762,10086,Q2-2024
+2025-12-24,LATAM,Risk Advisory,Healthcare,12410,8147,4262,Q4-2025
+2024-01-14,North America,Strategy Consulting,Finance,18306,7492,10813,Q1-2024
+2025-03-11,North America,Strategy Consulting,Healthcare,66634,21546,45088,Q1-2025
+2024-12-26,Europe,Risk Advisory,Healthcare,13596,9587,4008,Q4-2024
+2024-02-14,LATAM,Tech Implementation,Energy,63582,38406,25175,Q1-2024
+2025-01-16,Europe,Strategy Consulting,Retail,94701,41983,52717,Q1-2025
+2024-08-10,APAC,Strategy Consulting,Healthcare,44976,17912,27063,Q3-2024
+2025-06-20,Europe,Strategy Consulting,Retail,16681,7109,9571,Q2-2025
+2024-09-18,North America,Audit Services,Healthcare,16250,14302,1947,Q3-2024
+2025-05-19,APAC,Tech Implementation,Energy,33412,22601,10810,Q2-2025
+2024-04-22,APAC,Tech Implementation,Finance,48637,33732,14904,Q2-2024
+2024-08-06,LATAM,Audit Services,Energy,7803,6587,1215,Q3-2024
+2025-12-30,North America,Risk Advisory,Healthcare,10258,6154,4103,Q4-2025
+2025-08-31,APAC,Audit Services,Retail,46965,40613,6352,Q3-2025
+2024-10-14,APAC,Audit Services,Retail,23372,19227,4144,Q4-2024
+2024-06-13,Europe,Tech Implementation,Retail,6692,4966,1725,Q2-2024
+2024-05-24,Europe,Audit Services,Retail,20749,16963,3786,Q2-2024
+2025-01-29,North America,Risk Advisory,Finance,65553,36540,29012,Q1-2025
+2025-08-25,North America,Tech Implementation,Finance,53203,29645,23557,Q3-2025
+2024-10-01,APAC,Strategy Consulting,Healthcare,83386,36607,46779,Q4-2024
+2025-08-01,APAC,Risk Advisory,Healthcare,14553,9081,5471,Q3-2025
+2024-10-03,LATAM,Tech Implementation,Government,53479,39245,14233,Q4-2024
+2025-09-24,APAC,Strategy Consulting,Retail,41707,13163,28543,Q3-2025
+2024-11-17,North America,Risk Advisory,Retail,20714,14229,6484,Q4-2024
+2025-10-01,Europe,Risk Advisory,Energy,22524,16551,5972,Q4-2025
+2025-02-21,Europe,Risk Advisory,Energy,76599,49353,27245,Q1-2025
+2024-10-07,North America,Tech Implementation,Finance,73978,49251,24726,Q4-2024
+2024-04-13,LATAM,Audit Services,Government,5462,4738,723,Q2-2024
+2024-06-12,North America,Tech Implementation,Energy,63638,44958,18679,Q2-2024
+2024-11-06,APAC,Risk Advisory,Healthcare,14397,10646,3750,Q4-2024
+2024-07-12,Europe,Tech Implementation,Energy,53775,31165,22609,Q3-2024
+2025-04-08,Europe,Risk Advisory,Finance,12540,7960,4579,Q2-2025
+2025-12-08,North America,Strategy Consulting,Healthcare,60900,18727,42172,Q4-2025
+2024-01-23,North America,Strategy Consulting,Retail,35073,15862,19210,Q1-2024
+2024-10-23,North America,Strategy Consulting,Finance,67929,21750,46178,Q4-2024
+2024-04-05,North America,Audit Services,Retail,36803,33089,3713,Q2-2024
+2025-11-26,North America,Tech Implementation,Retail,14512,9010,5501,Q4-2025
+2025-08-03,Europe,Strategy Consulting,Retail,16590,5460,11129,Q3-2025
+2025-04-04,APAC,Tech Implementation,Energy,38408,22666,15741,Q2-2025
+2025-10-26,North America,Audit Services,Healthcare,54187,47304,6882,Q4-2025
+2024-08-05,LATAM,Strategy Consulting,Finance,57894,19075,38818,Q3-2024
+2024-01-29,APAC,Risk Advisory,Energy,28834,16083,12750,Q1-2024
+2024-08-26,Europe,Audit Services,Government,33217,29218,3999,Q3-2024
+2024-01-09,North America,Strategy Consulting,Finance,89319,33952,55366,Q1-2024
+2025-07-22,North America,Risk Advisory,Retail,37873,24757,13115,Q3-2025
+2025-02-11,LATAM,Audit Services,Energy,29115,22747,6367,Q1-2025
+2024-06-14,LATAM,Risk Advisory,Energy,5711,3612,2098,Q2-2024
+2025-06-23,APAC,Strategy Consulting,Healthcare,93597,42593,51003,Q2-2025
+2025-09-10,LATAM,Tech Implementation,Healthcare,15722,10397,5324,Q3-2025
+2025-04-29,North America,Audit Services,Retail,8616,7078,1537,Q2-2025
+2024-12-14,APAC,Tech Implementation,Healthcare,28893,19781,9111,Q4-2024
+2024-07-06,Europe,Strategy Consulting,Energy,80284,37328,42955,Q3-2024
+2025-09-24,Europe,Audit Services,Government,8309,6871,1438,Q3-2025
+2025-10-06,North America,Audit Services,Retail,35732,29135,6597,Q4-2025
+2024-06-19,North America,Strategy Consulting,Government,72277,24504,47772,Q2-2024
+2025-04-07,North America,Risk Advisory,Retail,57072,37999,19072,Q2-2025
+2024-08-06,APAC,Audit Services,Finance,39765,32028,7737,Q3-2024
+2025-09-20,LATAM,Risk Advisory,Energy,49343,30743,18599,Q3-2025
+2024-02-07,APAC,Tech Implementation,Government,78715,45876,32838,Q1-2024
+2025-11-19,Europe,Audit Services,Healthcare,8536,6420,2116,Q4-2025
+2024-10-08,Europe,Risk Advisory,Government,52152,30199,21952,Q4-2024
+2024-02-01,North America,Audit Services,Healthcare,24820,18768,6052,Q1-2024
+2025-07-26,North America,Tech Implementation,Government,47090,30669,16420,Q3-2025
+2025-09-01,North America,Tech Implementation,Finance,9919,7431,2487,Q3-2025
+2025-08-14,North America,Strategy Consulting,Healthcare,79179,39387,39791,Q3-2025
+2025-05-22,APAC,Risk Advisory,Energy,57137,31688,25448,Q2-2025
+2025-09-21,Europe,Risk Advisory,Government,76563,49547,27015,Q3-2025
+2025-10-01,APAC,Tech Implementation,Finance,78217,49817,28399,Q4-2025
+2024-04-25,Europe,Audit Services,Retail,14956,12443,2513,Q2-2024
+2024-11-28,LATAM,Tech Implementation,Energy,20702,14787,5914,Q4-2024
+2024-01-05,Europe,Risk Advisory,Finance,34050,24376,9673,Q1-2024
+2024-05-22,Europe,Audit Services,Retail,56444,42351,14093,Q2-2024
+2024-09-22,Europe,Audit Services,Government,34903,29231,5671,Q3-2024
+2025-11-15,North America,Audit Services,Retail,63255,55193,8061,Q4-2025
+2024-04-04,APAC,Strategy Consulting,Healthcare,64431,19743,44687,Q2-2024
+2025-02-21,APAC,Strategy Consulting,Healthcare,32152,12766,19385,Q1-2025
+2025-05-04,LATAM,Risk Advisory,Government,31437,19782,11654,Q2-2025
+2024-08-31,APAC,Audit Services,Retail,7644,6524,1120,Q3-2024
+2025-10-26,North America,Risk Advisory,Government,52788,30001,22786,Q4-2025
+2025-06-01,North America,Risk Advisory,Energy,22658,16917,5740,Q2-2025
+2024-02-04,APAC,Audit Services,Government,63791,52261,11530,Q1-2024
+2024-05-29,North America,Audit Services,Healthcare,9915,7757,2157,Q2-2024
+2025-11-16,North America,Risk Advisory,Government,31030,21226,9803,Q4-2025
+2025-10-08,Europe,Risk Advisory,Retail,70918,40678,30239,Q4-2025
+2025-11-12,LATAM,Strategy Consulting,Energy,99766,33647,66119,Q4-2025
+2024-06-15,APAC,Tech Implementation,Healthcare,47717,29653,18063,Q2-2024
+2025-09-04,APAC,Audit Services,Healthcare,35255,30563,4691,Q3-2025
+2025-04-27,Europe,Risk Advisory,Finance,65509,39113,26395,Q2-2025
+2025-11-17,LATAM,Risk Advisory,Finance,59913,36120,23792,Q4-2025
+2024-09-22,Europe,Strategy Consulting,Retail,28252,10998,17254,Q3-2024
+2024-09-17,Europe,Risk Advisory,Finance,39660,24661,14998,Q3-2024
+2024-09-17,North America,Tech Implementation,Healthcare,79889,54510,25378,Q3-2024
+2025-09-22,APAC,Tech Implementation,Healthcare,75479,56601,18877,Q3-2025
+2024-11-16,APAC,Risk Advisory,Government,5290,3691,1598,Q4-2024
+2024-02-17,Europe,Risk Advisory,Finance,70067,44466,25600,Q1-2024
+2024-05-18,North America,Risk Advisory,Retail,48977,31529,17447,Q2-2024
+2024-12-20,APAC,Risk Advisory,Healthcare,8331,5735,2595,Q4-2024
+2025-09-14,North America,Risk Advisory,Healthcare,13732,8841,4890,Q3-2025
+2024-06-10,LATAM,Strategy Consulting,Government,97281,36703,60577,Q2-2024
+2025-05-17,North America,Risk Advisory,Energy,12503,7720,4782,Q2-2025
+2025-05-17,North America,Audit Services,Retail,29550,22269,7280,Q2-2025
+2024-05-02,North America,Strategy Consulting,Government,41632,13372,28259,Q2-2024
+2024-01-04,Europe,Tech Implementation,Government,26415,19627,6787,Q1-2024
+2024-08-10,LATAM,Strategy Consulting,Retail,108438,38263,70174,Q3-2024
+2024-11-28,Europe,Strategy Consulting,Finance,11253,4324,6928,Q4-2024
+2024-06-26,APAC,Risk Advisory,Healthcare,41073,23947,17125,Q2-2024
+2025-01-11,North America,Audit Services,Finance,63296,54955,8340,Q1-2025
+2025-09-18,North America,Audit Services,Retail,43964,38808,5156,Q3-2025
+2025-10-06,Europe,Strategy Consulting,Government,73389,35331,38057,Q4-2025
+2025-11-05,LATAM,Tech Implementation,Healthcare,33117,19209,13907,Q4-2025
+2025-07-21,Europe,Strategy Consulting,Energy,8934,2715,6218,Q3-2025
+2024-06-18,APAC,Tech Implementation,Retail,67101,49283,17817,Q2-2024
+2025-10-25,APAC,Strategy Consulting,Retail,51808,22844,28963,Q4-2025
+2024-02-08,APAC,Risk Advisory,Government,46468,30397,16070,Q1-2024
+2024-07-04,APAC,Audit Services,Healthcare,47057,38406,8651,Q3-2024
+2024-11-18,North America,Risk Advisory,Finance,31956,22739,9216,Q4-2024
+2025-05-13,Europe,Risk Advisory,Government,29035,17430,11604,Q2-2025
+2024-12-12,APAC,Tech Implementation,Healthcare,24141,17710,6430,Q4-2024
+2024-05-18,Europe,Audit Services,Finance,48751,37599,11151,Q2-2024
+2024-12-04,Europe,Audit Services,Healthcare,21107,16522,4584,Q4-2024
+2025-03-19,Europe,Audit Services,Finance,13410,11885,1524,Q1-2025
+2025-04-30,Europe,Strategy Consulting,Healthcare,71572,34352,37219,Q2-2025
+2025-01-17,North America,Risk Advisory,Government,10894,6480,4413,Q1-2025
+2024-05-05,Europe,Risk Advisory,Retail,14534,8911,5622,Q2-2024
+2024-01-21,Europe,Audit Services,Finance,26596,23639,2956,Q1-2024
+2024-10-18,North America,Tech Implementation,Retail,69477,42504,26972,Q4-2024
+2025-11-23,APAC,Tech Implementation,Energy,30406,17448,12957,Q4-2025
+2024-03-11,APAC,Strategy Consulting,Retail,22282,8454,13828,Q1-2024
+2024-01-01,APAC,Risk Advisory,Energy,75938,50612,25325,Q1-2024
+2025-05-27,North America,Strategy Consulting,Government,102564,36051,66512,Q2-2025
+2025-06-21,North America,Tech Implementation,Healthcare,41387,24988,16398,Q2-2025
+2024-05-16,LATAM,Tech Implementation,Government,77615,52844,24770,Q2-2024
+2025-05-16,LATAM,Strategy Consulting,Healthcare,48754,23951,24802,Q2-2025
+2024-01-25,Europe,Audit Services,Energy,36736,31357,5378,Q1-2024
+2024-10-27,LATAM,Strategy Consulting,Retail,119146,47065,72081,Q4-2024
+2025-03-22,APAC,Strategy Consulting,Finance,41125,15113,26012,Q1-2025
+2024-06-12,LATAM,Risk Advisory,Retail,74960,48656,26303,Q2-2024
+2025-02-26,North America,Strategy Consulting,Healthcare,113820,52013,61806,Q1-2025
+2025-04-01,Europe,Tech Implementation,Government,63237,47119,16117,Q2-2025
+2024-04-05,LATAM,Audit Services,Finance,57559,48173,9385,Q2-2024
+2024-06-05,LATAM,Tech Implementation,Retail,64861,46170,18690,Q2-2024
+2025-03-31,North America,Strategy Consulting,Government,69180,33027,36152,Q1-2025
+2025-02-10,APAC,Strategy Consulting,Government,96846,41457,55388,Q1-2025
+2025-03-30,LATAM,Strategy Consulting,Retail,43758,18172,25585,Q1-2025
+2025-06-28,Europe,Strategy Consulting,Government,24052,11946,12105,Q2-2025
+2025-06-27,LATAM,Tech Implementation,Government,10559,7912,2646,Q2-2025
+2024-09-09,APAC,Audit Services,Government,24322,21576,2746,Q3-2024
+2024-07-06,LATAM,Strategy Consulting,Government,94380,38952,55427,Q3-2024
+2025-01-28,Europe,Audit Services,Retail,60211,50382,9828,Q1-2025
+2025-02-18,APAC,Tech Implementation,Finance,63742,46246,17495,Q1-2025
+2024-08-21,North America,Audit Services,Government,36311,27981,8329,Q3-2024
+2025-03-16,North America,Risk Advisory,Finance,5868,4392,1475,Q1-2025
+2025-10-07,APAC,Tech Implementation,Finance,43269,27297,15971,Q4-2025
+2025-02-07,LATAM,Audit Services,Healthcare,14980,13068,1911,Q1-2025
+2024-08-30,LATAM,Tech Implementation,Retail,59154,37749,21404,Q3-2024
+2025-02-03,Europe,Risk Advisory,Energy,33996,20441,13554,Q1-2025
+2024-03-05,APAC,Tech Implementation,Retail,67154,44906,22247,Q1-2024
+2025-05-10,Europe,Strategy Consulting,Finance,77191,24377,52814,Q2-2025
+2025-10-14,North America,Strategy Consulting,Healthcare,73717,24954,48763,Q4-2025
+2024-03-24,Europe,Audit Services,Government,48972,40487,8484,Q1-2024
+2024-07-08,North America,Strategy Consulting,Government,80722,26833,53888,Q3-2024
+2025-11-30,North America,Strategy Consulting,Finance,118050,53084,64965,Q4-2025
+2024-02-03,Europe,Tech Implementation,Energy,69412,41641,27770,Q1-2024
+2025-11-10,APAC,Audit Services,Energy,57683,49571,8112,Q4-2025
+2024-11-28,LATAM,Strategy Consulting,Energy,103953,49257,54695,Q4-2024
+2024-03-08,Europe,Tech Implementation,Healthcare,40629,22708,17920,Q1-2024
+2024-07-26,North America,Risk Advisory,Government,5628,3590,2037,Q3-2024
+2024-05-08,LATAM,Audit Services,Government,9596,7576,2019,Q2-2024
+2024-06-01,APAC,Tech Implementation,Energy,53987,36972,17014,Q2-2024
+2024-05-24,North America,Strategy Consulting,Government,27387,11681,15705,Q2-2024
+2024-11-15,North America,Audit Services,Energy,14739,11114,3624,Q4-2024
+2024-04-25,Europe,Tech Implementation,Healthcare,71812,49017,22794,Q2-2024
+2025-03-02,APAC,Risk Advisory,Finance,25459,18766,6692,Q1-2025
+2024-07-23,North America,Tech Implementation,Government,22599,15937,6661,Q3-2024
+2024-12-28,LATAM,Audit Services,Healthcare,41139,32833,8305,Q4-2024
+2025-12-30,Europe,Risk Advisory,Government,10063,7106,2956,Q4-2025
+2025-11-20,North America,Tech Implementation,Finance,5770,4231,1538,Q4-2025
+2024-11-19,Europe,Audit Services,Government,58345,49611,8733,Q4-2024
+2024-11-18,LATAM,Tech Implementation,Finance,8407,5872,2534,Q4-2024
+2024-10-01,Europe,Tech Implementation,Energy,22143,15097,7045,Q4-2024
+2025-02-08,North America,Strategy Consulting,Retail,117268,52222,65045,Q1-2025
+2025-12-23,LATAM,Audit Services,Finance,29454,23947,5507,Q4-2025
+2024-08-31,APAC,Audit Services,Finance,27998,22557,5440,Q3-2024
+2025-02-22,Europe,Audit Services,Retail,20372,18082,2289,Q1-2025
+2025-09-07,APAC,Risk Advisory,Retail,70652,48712,21939,Q3-2025
+2024-07-17,APAC,Tech Implementation,Government,52834,38947,13886,Q3-2024
+2024-05-28,APAC,Risk Advisory,Finance,51481,36620,14860,Q2-2024
+2024-04-21,North America,Tech Implementation,Retail,78826,45294,33531,Q2-2024
+2025-11-06,LATAM,Risk Advisory,Retail,48024,28894,19129,Q4-2025
+2025-02-25,Europe,Audit Services,Energy,17677,13528,4149,Q1-2025
+2024-06-19,APAC,Audit Services,Government,50340,44183,6157,Q2-2024
+2025-12-10,LATAM,Tech Implementation,Finance,66798,39970,26827,Q4-2025
+2024-04-29,LATAM,Audit Services,Finance,29824,25503,4321,Q2-2024
+2024-01-15,North America,Tech Implementation,Energy,73184,53840,19343,Q1-2024
+2024-11-20,LATAM,Risk Advisory,Healthcare,54209,34297,19911,Q4-2024
+2025-09-13,APAC,Tech Implementation,Healthcare,47437,27461,19975,Q3-2025
+2025-05-08,LATAM,Risk Advisory,Government,39255,28993,10261,Q2-2025
+2024-03-17,Europe,Tech Implementation,Finance,37187,27112,10074,Q1-2024
+2024-01-25,APAC,Audit Services,Energy,42153,32595,9557,Q1-2024
+2025-02-01,LATAM,Strategy Consulting,Healthcare,65581,22066,43514,Q1-2025
+2025-03-08,APAC,Tech Implementation,Retail,10417,7454,2962,Q1-2025
+2025-06-03,APAC,Strategy Consulting,Government,64054,31677,32377,Q2-2025
+2025-08-12,APAC,Tech Implementation,Retail,43797,24952,18844,Q3-2025
+2024-06-28,North America,Risk Advisory,Retail,37892,27601,10290,Q2-2024
+2024-08-20,North America,Strategy Consulting,Energy,31206,13026,18179,Q3-2024
+2024-12-12,APAC,Strategy Consulting,Retail,38694,18320,20373,Q4-2024
+2025-08-18,LATAM,Tech Implementation,Finance,50081,29034,21046,Q3-2025
+2024-05-25,APAC,Risk Advisory,Retail,52628,32720,19907,Q2-2024
+2025-12-26,APAC,Tech Implementation,Energy,74700,54977,19722,Q4-2025
+2024-06-11,North America,Tech Implementation,Healthcare,8207,4830,3376,Q2-2024
+2025-04-03,APAC,Risk Advisory,Retail,18859,12778,6080,Q2-2025
+2024-12-28,LATAM,Tech Implementation,Government,42816,30057,12758,Q4-2024
+2025-04-25,Europe,Risk Advisory,Energy,76302,43392,32909,Q2-2025
+2024-08-27,Europe,Tech Implementation,Healthcare,19055,13484,5570,Q3-2024
+2024-07-25,Europe,Audit Services,Energy,24368,20443,3924,Q3-2024
+2024-03-04,North America,Risk Advisory,Energy,11392,6502,4889,Q1-2024
+2024-04-05,Europe,Audit Services,Energy,33893,27628,6265,Q2-2024
+2024-02-12,North America,Strategy Consulting,Healthcare,33420,10029,23390,Q1-2024
+2025-02-28,North America,Risk Advisory,Retail,49657,28764,20892,Q1-2025
+2024-01-19,APAC,Audit Services,Government,31484,25476,6008,Q1-2024
+2025-07-27,North America,Audit Services,Energy,41814,34273,7540,Q3-2025
+2024-07-12,APAC,Strategy Consulting,Energy,48799,22903,25895,Q3-2024
+2024-01-31,Europe,Strategy Consulting,Government,17893,8932,8960,Q1-2024
+2025-08-08,APAC,Tech Implementation,Retail,8142,5816,2325,Q3-2025
+2024-04-02,LATAM,Audit Services,Healthcare,38179,28806,9373,Q2-2024
+2025-11-21,LATAM,Strategy Consulting,Energy,80352,37794,42557,Q4-2025
+2024-06-30,LATAM,Risk Advisory,Retail,14607,9703,4903,Q2-2024
+2024-02-14,APAC,Strategy Consulting,Finance,84501,37441,47059,Q1-2024
+2024-07-06,LATAM,Tech Implementation,Government,57900,40075,17824,Q3-2024
+2024-05-02,APAC,Risk Advisory,Energy,35021,25917,9103,Q2-2024
+2025-03-16,APAC,Risk Advisory,Retail,15072,8653,6418,Q1-2025
+2024-02-15,LATAM,Risk Advisory,Healthcare,13005,7958,5046,Q1-2024
+2025-06-17,North America,Tech Implementation,Healthcare,35235,25216,10018,Q2-2025
+2024-08-06,Europe,Strategy Consulting,Government,10960,4581,6379,Q3-2024
+2025-01-30,Europe,Strategy Consulting,Finance,41379,13166,28212,Q1-2025
+2024-10-11,APAC,Audit Services,Energy,48173,40681,7492,Q4-2024
+2025-12-23,LATAM,Tech Implementation,Healthcare,33669,18873,14795,Q4-2025
+2024-09-27,APAC,Risk Advisory,Retail,39507,22105,17401,Q3-2024
+2025-09-25,North America,Tech Implementation,Healthcare,43848,24436,19411,Q3-2025
+2025-11-27,North America,Risk Advisory,Government,64857,43635,21221,Q4-2025
+2025-05-20,APAC,Risk Advisory,Energy,68593,46097,22495,Q2-2025
+2025-02-20,LATAM,Audit Services,Energy,20104,15465,4639,Q1-2025
+2024-06-03,APAC,Risk Advisory,Retail,45510,30604,14905,Q2-2024
+2025-09-20,LATAM,Tech Implementation,Healthcare,9973,6832,3140,Q3-2025
+2025-06-28,North America,Risk Advisory,Retail,17035,10421,6613,Q2-2025
+2024-10-21,North America,Tech Implementation,Retail,27858,17776,10081,Q4-2024
+2025-12-15,Europe,Strategy Consulting,Government,92547,33665,58881,Q4-2025
+2025-07-21,APAC,Strategy Consulting,Finance,53253,23630,29622,Q3-2025
+2025-02-15,LATAM,Audit Services,Energy,23760,20436,3323,Q1-2025
+2025-12-18,North America,Audit Services,Finance,29827,23166,6660,Q4-2025
+2024-03-18,Europe,Tech Implementation,Healthcare,68882,39354,29527,Q1-2024
+2024-09-15,North America,Risk Advisory,Government,36181,21053,15127,Q3-2024
+2024-03-21,Europe,Strategy Consulting,Healthcare,44224,14344,29879,Q1-2024
+2024-07-17,North America,Tech Implementation,Government,23350,17321,6028,Q3-2024
+2024-09-23,Europe,Risk Advisory,Government,55295,30723,24571,Q3-2024
+2025-12-25,LATAM,Strategy Consulting,Retail,18946,6153,12793,Q4-2025
+2024-02-09,APAC,Audit Services,Government,51761,42908,8853,Q1-2024
+2024-03-04,APAC,Tech Implementation,Finance,58467,40384,18082,Q1-2024
+2025-08-28,Europe,Strategy Consulting,Finance,23466,7057,16408,Q3-2025
+2025-05-22,Europe,Strategy Consulting,Healthcare,7938,3698,4239,Q2-2025
+2024-10-30,North America,Strategy Consulting,Government,77355,31422,45932,Q4-2024
+2024-02-21,APAC,Tech Implementation,Energy,24900,14584,10315,Q1-2024
+2025-11-09,Europe,Strategy Consulting,Healthcare,102067,32152,69915,Q4-2025
+2024-07-27,LATAM,Strategy Consulting,Energy,82963,25747,57216,Q3-2024
+2025-08-26,LATAM,Audit Services,Finance,13372,10493,2878,Q3-2025
+2024-07-05,North America,Risk Advisory,Energy,10357,5779,4577,Q3-2024
+2025-12-17,North America,Risk Advisory,Finance,77122,53741,23380,Q4-2025
+2025-07-22,North America,Tech Implementation,Retail,46523,32489,14033,Q3-2025
+2025-03-01,APAC,Strategy Consulting,Government,14010,5754,8255,Q1-2025
+2025-07-21,Europe,Risk Advisory,Healthcare,60766,34068,26697,Q3-2025
+2025-07-22,Europe,Tech Implementation,Finance,37810,22531,15278,Q3-2025
+2025-05-24,LATAM,Risk Advisory,Retail,28822,17640,11181,Q2-2025
+2025-05-24,LATAM,Risk Advisory,Healthcare,68505,42955,25549,Q2-2025
+2025-10-14,North America,Strategy Consulting,Healthcare,57535,23273,34261,Q4-2025
+2025-11-06,APAC,Strategy Consulting,Energy,46086,14177,31908,Q4-2025
+2025-01-26,North America,Risk Advisory,Energy,26019,16425,9593,Q1-2025
+2025-08-10,LATAM,Risk Advisory,Finance,26456,19408,7047,Q3-2025
+2025-04-11,LATAM,Tech Implementation,Energy,56138,32903,23234,Q2-2025
+2025-04-12,LATAM,Risk Advisory,Energy,20394,14648,5745,Q2-2025
+2024-02-06,LATAM,Strategy Consulting,Energy,70648,23554,47093,Q1-2024
+2025-07-22,LATAM,Risk Advisory,Finance,57249,38402,18846,Q3-2025
+2025-06-06,LATAM,Audit Services,Energy,59318,45558,13759,Q2-2025
+2024-01-18,North America,Risk Advisory,Government,75637,46582,29054,Q1-2024
+2025-02-19,Europe,Tech Implementation,Healthcare,68983,50308,18674,Q1-2025
+2024-04-05,LATAM,Audit Services,Finance,21846,18740,3105,Q2-2024
+2025-06-24,Europe,Audit Services,Retail,61364,47012,14351,Q2-2025
+2025-05-21,APAC,Strategy Consulting,Retail,56382,18355,38026,Q2-2025
+2024-07-27,North America,Tech Implementation,Government,6586,4231,2354,Q3-2024
+2024-02-12,APAC,Risk Advisory,Energy,37485,24212,13272,Q1-2024
+2025-04-10,North America,Tech Implementation,Retail,40605,29669,10935,Q2-2025
+2025-11-01,LATAM,Tech Implementation,Energy,55588,38239,17348,Q4-2025
+2025-09-09,North America,Risk Advisory,Energy,42405,24008,18396,Q3-2025
+2025-11-12,North America,Tech Implementation,Government,71412,51519,19892,Q4-2025
+2024-08-21,North America,Risk Advisory,Retail,14593,10452,4140,Q3-2024
+2025-08-21,Europe,Audit Services,Finance,16284,13067,3216,Q3-2025
+2024-03-13,LATAM,Tech Implementation,Energy,50135,33525,16609,Q1-2024
+2024-06-25,LATAM,Audit Services,Retail,60711,53798,6912,Q2-2024
+2025-12-17,Europe,Strategy Consulting,Healthcare,114517,50600,63917,Q4-2025
+2025-06-30,Europe,Audit Services,Retail,16793,13846,2947,Q2-2025
+2025-12-09,North America,Tech Implementation,Energy,69679,40083,29595,Q4-2025
+2024-12-29,APAC,Risk Advisory,Finance,13215,7452,5762,Q4-2024
+2024-04-18,Europe,Strategy Consulting,Government,18139,8497,9642,Q2-2024
+2024-11-09,APAC,Risk Advisory,Retail,55852,37280,18571,Q4-2024
+2024-07-14,APAC,Risk Advisory,Energy,15795,10968,4826,Q3-2024
+2024-01-24,Europe,Strategy Consulting,Government,29154,10437,18716,Q1-2024
+2025-09-15,Europe,Tech Implementation,Finance,44539,33311,11227,Q3-2025
+2024-05-26,North America,Tech Implementation,Finance,32997,18531,14465,Q2-2024
+2025-10-26,Europe,Risk Advisory,Healthcare,14551,9439,5111,Q4-2025
+2024-05-06,Europe,Strategy Consulting,Retail,16978,5584,11394,Q2-2024
+2024-04-29,North America,Tech Implementation,Energy,18373,12806,5566,Q2-2024
+2025-10-28,Europe,Strategy Consulting,Energy,118762,39254,79508,Q4-2025
+2024-06-30,APAC,Tech Implementation,Finance,26606,17113,9492,Q2-2024
+2025-02-25,LATAM,Strategy Consulting,Finance,40392,14045,26346,Q1-2025
+2024-11-11,North America,Audit Services,Retail,23436,17893,5542,Q4-2024
+2025-04-12,APAC,Audit Services,Finance,18681,15201,3480,Q2-2025
+2025-06-21,North America,Tech Implementation,Government,44400,30256,14143,Q2-2025
+2024-03-25,LATAM,Audit Services,Finance,30447,22981,7465,Q1-2024
+2025-07-16,LATAM,Risk Advisory,Energy,76819,50699,26119,Q3-2025
+2024-07-27,Europe,Strategy Consulting,Healthcare,39897,15393,24503,Q3-2024
+2024-11-04,LATAM,Strategy Consulting,Retail,19969,7884,12084,Q4-2024
+2025-01-21,North America,Tech Implementation,Retail,47132,33538,13593,Q1-2025
+2024-06-06,APAC,Audit Services,Retail,31964,24303,7660,Q2-2024
+2025-09-13,APAC,Tech Implementation,Finance,28983,16985,11997,Q3-2025
+2024-01-31,North America,Risk Advisory,Finance,71830,52637,19192,Q1-2024
+2025-04-12,Europe,Tech Implementation,Energy,34063,21965,12097,Q2-2025
+2024-01-20,APAC,Audit Services,Government,15568,13878,1690,Q1-2024
+2024-05-08,Europe,Tech Implementation,Finance,67201,45376,21824,Q2-2024
+2025-05-19,APAC,Strategy Consulting,Finance,77932,37244,40687,Q2-2025
+2024-12-31,APAC,Risk Advisory,Retail,18578,10803,7774,Q4-2024
+2025-09-21,Europe,Tech Implementation,Retail,48749,33936,14812,Q3-2025
+2024-04-19,North America,Strategy Consulting,Healthcare,65197,27994,37202,Q2-2024
+2025-08-18,North America,Strategy Consulting,Energy,82912,39183,43728,Q3-2025
+2024-03-15,North America,Risk Advisory,Healthcare,9017,6120,2896,Q1-2024
+2024-10-17,APAC,Tech Implementation,Retail,12758,7805,4952,Q4-2024
+2024-04-19,Europe,Tech Implementation,Energy,76890,50016,26873,Q2-2024
+2025-06-18,North America,Risk Advisory,Finance,24207,16302,7904,Q2-2025
+2024-03-27,Europe,Tech Implementation,Energy,37232,25179,12052,Q1-2024
+2025-08-24,Europe,Audit Services,Government,9956,8351,1605,Q3-2025
+2024-05-01,Europe,Risk Advisory,Finance,43219,24283,18935,Q2-2024
+2025-08-17,APAC,Strategy Consulting,Healthcare,19416,8971,10444,Q3-2025
+2025-06-17,Europe,Tech Implementation,Retail,30932,19116,11815,Q2-2025
+2025-11-04,LATAM,Tech Implementation,Retail,32500,21141,11358,Q4-2025
+2024-09-18,LATAM,Risk Advisory,Healthcare,57047,41869,15177,Q3-2024
+2025-08-06,North America,Tech Implementation,Energy,57931,32610,25320,Q3-2025
+2025-01-03,Europe,Audit Services,Energy,49968,44915,5052,Q1-2025
+2025-02-03,APAC,Risk Advisory,Government,43195,28412,14782,Q1-2025
+2024-10-20,LATAM,Strategy Consulting,Retail,73540,35626,37913,Q4-2024
+2024-06-07,LATAM,Strategy Consulting,Energy,21219,6951,14267,Q2-2024
+2025-04-24,LATAM,Risk Advisory,Retail,77189,45734,31454,Q2-2025
+2024-01-24,LATAM,Tech Implementation,Energy,6639,3928,2710,Q1-2024
+2025-04-11,LATAM,Audit Services,Finance,41152,32801,8350,Q2-2025
+2024-08-17,APAC,Risk Advisory,Finance,45058,26943,18114,Q3-2024
+2025-01-15,Europe,Tech Implementation,Healthcare,50920,37105,13814,Q1-2025
+2024-06-05,APAC,Risk Advisory,Finance,5213,3604,1608,Q2-2024
+2025-09-25,North America,Risk Advisory,Finance,29575,21850,7724,Q3-2025
+2024-12-11,LATAM,Audit Services,Government,59159,48688,10470,Q4-2024
+2025-09-15,North America,Tech Implementation,Government,59043,40456,18586,Q3-2025
+2024-01-02,LATAM,Risk Advisory,Finance,14338,8064,6273,Q1-2024
+2024-10-06,Europe,Tech Implementation,Healthcare,64487,43003,21483,Q4-2024
+2025-03-16,Europe,Tech Implementation,Energy,8342,5533,2808,Q1-2025
+2025-02-10,APAC,Strategy Consulting,Healthcare,44721,21055,23665,Q1-2025
+2024-03-29,APAC,Risk Advisory,Government,33618,22670,10947,Q1-2024
+2025-01-13,North America,Risk Advisory,Retail,12205,7585,4619,Q1-2025
+2024-09-07,Europe,Tech Implementation,Retail,47200,31406,15793,Q3-2024
+2024-07-02,LATAM,Tech Implementation,Energy,11853,7260,4592,Q3-2024
+2024-11-11,North America,Tech Implementation,Government,66500,43958,22541,Q4-2024
+2024-04-16,Europe,Tech Implementation,Retail,5242,3172,2069,Q2-2024
+2024-06-11,APAC,Audit Services,Retail,42974,33164,9809,Q2-2024
+2024-03-25,North America,Tech Implementation,Healthcare,65783,40595,25187,Q1-2024
+2025-01-08,APAC,Audit Services,Energy,58390,47667,10723,Q1-2025
+2024-01-29,APAC,Audit Services,Government,19640,15155,4485,Q1-2024
+2025-01-06,Europe,Strategy Consulting,Energy,80038,32600,47437,Q1-2025
+2024-07-14,Europe,Risk Advisory,Healthcare,60761,36261,24499,Q3-2024
+2025-08-25,APAC,Strategy Consulting,Government,34924,15693,19231,Q3-2025
+2024-11-06,Europe,Strategy Consulting,Retail,10002,3907,6094,Q4-2024
+2025-08-11,APAC,Strategy Consulting,Government,53430,21608,31821,Q3-2025
+2025-05-21,North America,Tech Implementation,Healthcare,73105,45347,27757,Q2-2025
+2025-02-13,Europe,Strategy Consulting,Government,64215,20305,43909,Q1-2025
+2025-01-20,APAC,Tech Implementation,Energy,52265,37101,15163,Q1-2025
+2025-04-23,APAC,Strategy Consulting,Energy,11388,5114,6273,Q2-2025
+2025-06-23,APAC,Audit Services,Energy,60124,47571,12553,Q2-2025
+2025-01-19,APAC,Tech Implementation,Government,35167,24603,10563,Q1-2025
+2025-08-08,LATAM,Tech Implementation,Energy,50308,31951,18356,Q3-2025
+2024-07-23,Europe,Strategy Consulting,Energy,63060,22081,40978,Q3-2024
+2025-01-03,LATAM,Strategy Consulting,Retail,100267,44897,55369,Q1-2025
+2024-01-02,Europe,Audit Services,Retail,36753,28380,8373,Q1-2024
+2024-04-02,APAC,Strategy Consulting,Healthcare,33861,16786,17074,Q2-2024
+2024-05-30,LATAM,Strategy Consulting,Government,28576,10888,17687,Q2-2024
+2024-01-03,North America,Tech Implementation,Energy,13633,7948,5684,Q1-2024
+2024-12-09,North America,Risk Advisory,Healthcare,54888,41039,13848,Q4-2024
+2025-04-23,APAC,Tech Implementation,Energy,33017,19196,13820,Q2-2025
+2025-08-22,North America,Risk Advisory,Healthcare,40941,29553,11387,Q3-2025
+2024-01-08,APAC,Tech Implementation,Retail,8578,5481,3096,Q1-2024
+2024-08-25,LATAM,Strategy Consulting,Retail,84384,36246,48137,Q3-2024
+2025-01-27,APAC,Strategy Consulting,Energy,53103,26402,26700,Q1-2025
+2025-04-12,LATAM,Strategy Consulting,Healthcare,98188,31913,66274,Q2-2025
+2025-09-17,North America,Audit Services,Healthcare,14969,11276,3692,Q3-2025
+2025-12-18,APAC,Strategy Consulting,Healthcare,41788,13520,28268,Q4-2025
+2024-06-16,LATAM,Tech Implementation,Energy,62039,41571,20467,Q2-2024
+2025-12-29,LATAM,Strategy Consulting,Healthcare,33438,13135,20302,Q4-2025
+2025-10-26,Europe,Tech Implementation,Energy,66145,42592,23552,Q4-2025
+2024-01-25,APAC,Audit Services,Healthcare,23332,19201,4130,Q1-2024
+2024-07-03,North America,Audit Services,Government,39767,30419,9347,Q3-2024
+2024-02-11,North America,Audit Services,Healthcare,35827,27151,8676,Q1-2024
+2024-09-26,APAC,Strategy Consulting,Retail,40978,16768,24210,Q3-2024
+2025-04-09,APAC,Tech Implementation,Finance,47861,33325,14535,Q2-2025
+2024-09-16,North America,Audit Services,Retail,21488,18788,2700,Q3-2024
+2024-08-28,APAC,Tech Implementation,Finance,56137,40926,15210,Q3-2024
+2024-10-20,APAC,Strategy Consulting,Energy,105664,51233,54430,Q4-2024
+2025-06-12,APAC,Audit Services,Healthcare,45190,34351,10838,Q2-2025
+2024-05-22,LATAM,Strategy Consulting,Finance,24394,11426,12967,Q2-2024
+2024-04-27,North America,Strategy Consulting,Finance,10111,3120,6991,Q2-2024
+2024-07-02,LATAM,Tech Implementation,Finance,40109,23563,16545,Q3-2024
+2024-01-30,North America,Risk Advisory,Finance,70117,50682,19434,Q1-2024
+2024-01-08,North America,Strategy Consulting,Government,10519,4199,6319,Q1-2024
+2024-09-27,APAC,Risk Advisory,Energy,64097,42778,21318,Q3-2024
+2025-12-08,North America,Tech Implementation,Government,19817,13466,6350,Q4-2025
+2025-08-19,LATAM,Audit Services,Finance,63147,55263,7883,Q3-2025
+2025-11-12,Europe,Risk Advisory,Finance,66502,38848,27653,Q4-2025
+2024-07-02,LATAM,Strategy Consulting,Government,64461,19464,44996,Q3-2024
+2025-03-01,North America,Audit Services,Government,6082,4690,1392,Q1-2025
+2025-07-09,Europe,Tech Implementation,Retail,71496,47557,23938,Q3-2025
+2025-12-17,LATAM,Risk Advisory,Retail,44117,27726,16390,Q4-2025
+2024-03-01,North America,Audit Services,Finance,41070,33613,7456,Q1-2024
+2024-07-31,LATAM,Tech Implementation,Healthcare,10434,5742,4691,Q3-2024
+2025-02-21,APAC,Strategy Consulting,Government,117184,53911,63273,Q1-2025
+2025-12-26,North America,Strategy Consulting,Government,62316,27319,34996,Q4-2025
+2024-01-30,North America,Risk Advisory,Finance,68940,51427,17512,Q1-2024
+2024-09-30,North America,Risk Advisory,Retail,8881,6271,2609,Q3-2024
+2024-02-27,LATAM,Tech Implementation,Retail,21392,11928,9463,Q1-2024
+2024-09-05,North America,Audit Services,Energy,30461,23117,7343,Q3-2024
+2024-07-22,APAC,Risk Advisory,Healthcare,53113,33072,20040,Q3-2024
+2024-12-03,LATAM,Strategy Consulting,Finance,118519,36721,81797,Q4-2024
+2025-04-10,Europe,Audit Services,Government,44888,38478,6409,Q2-2025
+2025-03-30,LATAM,Audit Services,Finance,57689,50556,7133,Q1-2025
+2024-03-16,North America,Audit Services,Energy,24125,19048,5077,Q1-2024
+2025-05-13,North America,Tech Implementation,Energy,41002,25203,15798,Q2-2025
+2025-12-23,APAC,Audit Services,Retail,35922,29019,6902,Q4-2025
+2024-03-20,APAC,Tech Implementation,Finance,27923,19065,8857,Q1-2024
+2024-10-16,Europe,Tech Implementation,Healthcare,16050,10172,5877,Q4-2024
+2025-02-16,LATAM,Tech Implementation,Finance,8289,6212,2076,Q1-2025
+2025-02-21,North America,Tech Implementation,Retail,34589,21377,13211,Q1-2025
+2025-01-26,APAC,Tech Implementation,Energy,21109,13795,7313,Q1-2025
+2024-12-05,APAC,Tech Implementation,Government,52067,31051,21015,Q4-2024
+2024-09-22,APAC,Tech Implementation,Government,16308,10460,5847,Q3-2024
+2025-07-25,APAC,Risk Advisory,Finance,15462,9582,5879,Q3-2025
+2024-06-08,Europe,Audit Services,Energy,8067,6060,2006,Q2-2024
+2025-03-09,APAC,Strategy Consulting,Finance,80163,32472,47690,Q1-2025
+2025-06-12,Europe,Strategy Consulting,Energy,59562,18372,41189,Q2-2025
+2024-12-28,LATAM,Audit Services,Finance,21775,16960,4814,Q4-2024
+2025-08-19,North America,Audit Services,Finance,5793,4793,999,Q3-2025
+2024-03-26,APAC,Risk Advisory,Healthcare,38470,23485,14984,Q1-2024
+2024-10-24,Europe,Tech Implementation,Government,55402,33735,21666,Q4-2024
+2024-03-17,APAC,Tech Implementation,Energy,61295,41874,19420,Q1-2024
+2024-03-10,Europe,Audit Services,Government,43368,32668,10699,Q1-2024
+2025-10-02,North America,Tech Implementation,Energy,46736,32544,14191,Q4-2025
+2024-06-12,North America,Risk Advisory,Government,12719,9011,3707,Q2-2024
+2025-03-10,North America,Strategy Consulting,Healthcare,60507,26933,33573,Q1-2025
+2025-12-17,APAC,Strategy Consulting,Healthcare,17179,6798,10380,Q4-2025
+2025-09-16,APAC,Strategy Consulting,Retail,43077,20970,22106,Q3-2025
+2024-09-27,Europe,Risk Advisory,Healthcare,53964,31903,22060,Q3-2024
+2024-07-07,Europe,Audit Services,Government,4809,3929,879,Q3-2024
+2025-02-18,North America,Strategy Consulting,Healthcare,44061,17842,26218,Q1-2025
+2025-09-08,North America,Risk Advisory,Finance,78440,43623,34816,Q3-2025
+2024-08-08,Europe,Strategy Consulting,Finance,86847,30749,56097,Q3-2024
+2024-06-18,North America,Risk Advisory,Retail,59332,39130,20201,Q2-2024
+2024-10-13,APAC,Strategy Consulting,Finance,95656,33257,62399,Q4-2024
+2025-12-09,LATAM,Tech Implementation,Retail,45256,29286,15969,Q4-2025
+2025-07-10,APAC,Tech Implementation,Finance,26140,18172,7967,Q3-2025
+2025-05-11,North America,Strategy Consulting,Finance,53895,16379,37515,Q2-2025
+2024-08-05,North America,Risk Advisory,Energy,44886,28186,16699,Q3-2024
+2024-01-11,APAC,Tech Implementation,Finance,60385,37616,22768,Q1-2024
+2025-11-21,APAC,Risk Advisory,Finance,70277,40657,29619,Q4-2025
+2024-10-06,APAC,Risk Advisory,Government,71248,47361,23886,Q4-2024
+2025-05-23,APAC,Audit Services,Government,42046,33325,8721,Q2-2025
+2025-04-15,Europe,Risk Advisory,Retail,78462,50885,27576,Q2-2025
+2025-11-08,LATAM,Tech Implementation,Energy,44771,26197,18573,Q4-2025
+2025-04-23,Europe,Risk Advisory,Government,30303,19305,10997,Q2-2025
+2024-03-10,LATAM,Risk Advisory,Energy,45966,32368,13597,Q1-2024
+2025-07-25,North America,Audit Services,Energy,25196,19620,5575,Q3-2025
+2025-12-18,North America,Audit Services,Retail,37972,29898,8073,Q4-2025
+2024-07-26,Europe,Strategy Consulting,Government,59872,18562,41309,Q3-2024
+2025-04-23,North America,Strategy Consulting,Finance,44583,18908,25674,Q2-2025
+2024-11-28,North America,Audit Services,Retail,37672,32753,4918,Q4-2024
+2024-02-20,LATAM,Strategy Consulting,Energy,113637,50334,63302,Q1-2024
+2024-11-24,North America,Risk Advisory,Healthcare,76507,43139,33367,Q4-2024
+2024-01-28,Europe,Audit Services,Retail,31403,24203,7199,Q1-2024
+2025-08-26,North America,Risk Advisory,Retail,12802,8499,4302,Q3-2025
+2025-12-05,North America,Strategy Consulting,Government,98860,37217,61643,Q4-2025
+2025-09-10,LATAM,Strategy Consulting,Finance,96517,29459,67058,Q3-2025
+2024-06-09,Europe,Audit Services,Finance,34632,30920,3711,Q2-2024
+2025-12-30,North America,Risk Advisory,Healthcare,10486,6727,3758,Q4-2025
+2024-01-30,LATAM,Risk Advisory,Healthcare,47469,32299,15169,Q1-2024
+2024-12-15,Europe,Strategy Consulting,Government,49134,23944,25189,Q4-2024
+2024-02-04,Europe,Strategy Consulting,Retail,23362,11158,12204,Q1-2024
+2024-05-22,LATAM,Tech Implementation,Government,66656,42844,23811,Q2-2024
+2025-06-09,North America,Strategy Consulting,Healthcare,10789,5320,5469,Q2-2025
+2025-01-18,Europe,Strategy Consulting,Energy,117528,43983,73544,Q1-2025
+2024-10-25,Europe,Strategy Consulting,Government,96859,43317,53541,Q4-2024
+2024-12-13,North America,Strategy Consulting,Government,86401,35169,51232,Q4-2024
+2025-11-10,Europe,Tech Implementation,Finance,40626,23881,16744,Q4-2025
+2024-05-11,APAC,Tech Implementation,Finance,42546,29966,12579,Q2-2024
+2025-05-28,APAC,Strategy Consulting,Retail,55135,25754,29381,Q2-2025
+2024-09-05,Europe,Risk Advisory,Retail,79410,52303,27106,Q3-2024
+2024-02-03,APAC,Risk Advisory,Retail,9023,6626,2396,Q1-2024
+2024-09-06,APAC,Tech Implementation,Healthcare,21492,15540,5951,Q3-2024
+2024-11-15,LATAM,Risk Advisory,Retail,70307,45947,24359,Q4-2024
+2024-02-20,APAC,Strategy Consulting,Government,99490,45344,54146,Q1-2024
+2024-08-22,North America,Risk Advisory,Energy,44873,25468,19404,Q3-2024
+2025-01-22,North America,Tech Implementation,Government,73990,47949,26040,Q1-2025
+2024-10-16,LATAM,Tech Implementation,Healthcare,49153,36166,12986,Q4-2024
+2025-07-26,North America,Tech Implementation,Healthcare,44828,25603,19224,Q3-2025
