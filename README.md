@@ -8,7 +8,7 @@
 Designed a Business Intelligence solution to analyze profitability across 4 global regions. The goal was to move beyond static reporting and identify **margin leakage** (profit loss) in specific service lines.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard_final.png)
+![Dashboard Screenshot](dashboard_ss.png)
 
 ## 🔍 Key Insights & Findings
 * **Critical Issue Identified:** "Audit Services" in the APAC region are operating at a **<18% margin** (flagged RED in dashboard), significantly below the corporate target of 30%.
